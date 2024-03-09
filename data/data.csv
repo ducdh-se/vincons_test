@@ -1,0 +1,112 @@
+﻿question,option1,option2,option3,option4,answer
+Tiêu chuẩn nhận biết 1 tài sản cố định?,Chắc chắn thu được lợi ích kinh tế trong tương lai từ việc sử dụng tài sản đó,Có thời gian sử dụng trên 1 năm trở lên,Nguyên giá tài sản phải được xác định một cách tin cậy và có giá trị từ 30.000.000 đồng (Ba mươi triệu đồng) trở lên.,Cả 3 đáp án trên,4
+"Với công ty Vincons hoạt động ở thời điểm hiện tại, phần trích khấu hao tương ứng với nguyên giá vượt trên 1,6 tỷ đồng/xe đối với ô tô chở người từ 9 chỗ ngồi trở xuống thì:",Được tính vào chi phí được trừ khi xác định thu nhập chịu thuế,Được tính vào chi phí được trừ khi xác định thu nhập chịu thuế khi có đầy đủ hố sơ mua tài sản,Được tính vào chi phí được trừ khi xác định thu nhập chịu thuế khi có đầy đủ hố sơ mua tài sản và chứng minh tài sản được tài sản này phục vụ hoạt động kinh doanh của công ty,Không được tính vào chi phí được trừ khi xác định thu nhập chịu thuế,4
+Tcode thực hiện điều chuyển tài sản?,ZFI058,ZFI051,ZFI052,ZFI053,2
+Báo cáo nào thực hiện theo tần suất hàng Quý?,Báo cáo bảo lãnh,Báo cáo tiền,Báo cáo rà soát công nợ 90 ngày,Báo cáo tạm ứng,3
+Tcode xuất báo cáo tổng hợp công nợ theo nhà cung cấp?,ZPPC,ZFI023A,ZFI024A,ZFI015,2
+Hạch toán thanh toán khi tạm ứng tiền cho NCC trên SAP?,Nợ TK 331/ Có TK 113 => Nợ TK 113/ Có TK 112,Nợ TK 331/ Có TK 112,Nợ TK 113/ Có TK 112 => Nợ TK 141/ Có TK 113,Không đáp án nào đúng,1
+"Khi kiểm tra thông tin hóa đơn, kế toán cần lưu ý gì?","Check thông tin hóa đơn phải ghi đầy đủ tên, MST, địa chỉ công ty, cần tra cứu thông tin phát hành hóa đơn, hoạt động của nhà cung cấp trên trang http://tracuuhoadon.gdt.gov.vn","Hóa đơn xuất đúng nội dung, mặt hàng theo hợp đồng, đơn hàng đã ký.","Giá trị trên hóa đơn  xuất theo đúng điều khoản hợp đồng, khối lượng hoàn thành, phù hợp với biên bản bàn giao. So sánh giá trị trên hóa đơn GTGT với giá trị trong bảng tổng hợp đề nghị thanh/ quyết toán. Giá trị hóa đơn nhà thầu xuất lũy kế không thể thấp hơn giá trị nghiệm thu đợt, quyết toán.",Cả 3 đáp án trên,4
+"Khi thực hiện chuyển tiền cho nhà cung cấp, khách hàng Kế toán cần:","Khi kết xuất file thông tin chuyển tiền từ SAP cần kiểm tra chính xác: đơn vị hưởng, số tài khoản, ngân hàng trước khi đưa file lên ngân hàng. ","Ký nháy vào mục kế toán kiểm tra chứng từ và đánh dấu vào các chứng từ như BB thẩm định, BB thanh lý, BB nghiệm thu, tờ trình phê duyệt, trang điều khoản thanh toán, tiến độ thực hiện, điều khoản bảo lãnh, các trang có số liệu liên quan đến khấu trừ.... trước khi trình ký LĐ","Follow tiền thanh toán đến khi tiền cắt khỏi tài khoản, đóng dấu đã thanh toán, điền ngày thanh toán vào hồ sơ đã được thanh toán. ",Cả 3 đáp án trên,4
+"Đối với các hồ sơ xây dựng có nhiều đợt thanh toán, khi kiểm tra đợt quyết toán với NCC, danh mục hồ sơ đầy đủ nhất bao gồm:","- Đề nghị thanh toán nội bộ; đề nghị thanh toán của NCC
+- Bản duyệt
+- Hợp đồng/ phụ lục hợp đồng
+- Bảo lãnh thực hiện hợp đồng/ bảo lãnh tạm ứng
+- Hóa đơn
+- Bảng tổng hợp giá trị đề nghị quyết toán
+- Bảng tổng hợp khối lượng hoàn thành
+- Bảng diễn giải khối lượng hoàn thành
+- Bảng tổng hợp khấu trừ tiện ích và các biên bản đi kèm
+- Bảng tổng hợp khấu trừ chéo và các biên bản đi kèm
+- Bảng thống kê giá trị phạt
+- Biên bản xác nhận hết nghĩa vụ bảo hành
+
+","- Đề nghị thanh toán nội bộ; đề nghị thanh toán của NCC
+- Hợp đồng/ phụ lục hợp đồng
+- Bảo lãnh thực hiện hợp đồng
+- Hóa đơn
+- Bảng tổng hợp giá trị đề nghị thanh toán
+- Bảng tổng hợp khối lượng hoàn thành
+- Bảng diễn giải khối lượng hoàn thành
+- Bảng tổng hợp khấu trừ tiện ích và các biên bản đi kèm
+- Bảng tổng hợp khấu trừ chéo và các biên bản đi kèm
+- Bảng thống kê giá trị phạt
+- Biên bản thanh lý hợp đồng. 
+
+","C.- Đề nghị thanh toán nội bộ; đề nghị thanh toán của NCC
+- Hợp đồng/ phụ lục hợp đồng
+- Bảo lãnh bảo hành
+- Hóa đơn
+- Bảng tổng hợp giá trị đề nghị quyết toán
+- Bảng tổng hợp khối lượng hoàn thành
+- Bảng diễn giải khối lượng hoàn thành
+- Bảng tổng hợp khấu trừ tiện ích và các biên bản đi kèm
+- Bảng tổng hợp khấu trừ chéo và các biên bản đi kèm
+- Bảng thống kê giá trị phạt
+- Biên bản thanh lý hợp đồng. 
+- Biên bản nghiệm thu hoàn thành đưa vào sử dụng.
+","- Đề nghị thanh toán nội bộ; đề nghị thanh toán của NCC
+- Bản duyệt
+- Hợp đồng/ phụ lục hợp đồng
+- Bảo lãnh tạm ứng
+- Hóa đơn
+- Bảng tổng hợp giá trị đề nghị quyết toán
+- Bảng tổng hợp khối lượng hoàn thành
+- Bảng diễn giải khối lượng hoàn thành
+- Bảng tổng hợp khấu trừ tiện ích và các biên bản đi kèm
+- Bảng tổng hợp khấu trừ chéo và các biên bản đi kèm
+- Bảng thống kê giá trị phạt
+- Biên bản xác nhận hết nghĩa vụ bảo hành
+
+",3
+Ai được quyền phê duyệt chi phí phạt do vi phạm hành chính,TGĐ Công ty Vinhomes,PTGĐ Quản lý Xây dựng Công ty Vinhomes,PTGĐ Công ty Vincons,Không có đáp án đúng,4
+Ai được quyền duyệt chi tạm ứng tối đa 80% giá trị quyết toán,Cán bộ quản lý Ngân sách theo PL1,TGĐ Công ty Vinhomes,PTGĐ Quản lý Xây dựng Công ty Vinhomes,PTGĐ Công ty Vincons,3
+"Tiền công tác phí ngắn ngày cho cấp T7, T8 bao nhiêu tiền 1 ngày?",200.000 VND,300.000 VND,400.000 VND,500.000 VND,1
+PTCKT cần đưa báo cáo bảo lãnh lên Cẩm nang thông tin để các bộ phận tra cứu định kỳ khi nào?,Ngay khi phát sinh với các trường hợp xử lý gấp,Chậm nhất ngày 15 hàng tháng,Hàng quý,Đáp án A và B,4
+"Ngay sau khi ký hợp đồng và trước khi thanh toán hoặc khi có phát sinh, BP cần phải làm gì với thư BL",Yêu cầu NT/NCC phát hành thư BL theo quy định,Kiểm tra thư BL nhận được đảm bảo tuân thủ đúng theo quy định (tuân thủ đúng mẫu do Tập đoàn ban hành và nội dung phù hợp với phê duyệt của CBLĐ),Chuyển thư BL cho PKT,Tất cả các đáp án trên,4
+Bộ phận cần lập PR chi phí khi nào?,Khi có phát sinh,Khi có Hợp đồng,Khi có Hợp đồng và BBGN,Khi có Hợp đồng và BBGN và Hóa đơn,1
+Trách nhiệm của BP phải rà soát PR/PO theo tần suất nào?,Hàng tuần,Hàng tháng,Hàng quý,Không có trách nhiệm rà soát,2
+Mã giao dịch (Tcode) nào dùng để xem tồn kho tại một thời điểm,ME52, ME25,MB52, MB25,3
+Thời gian thực hiện lưu trữ hồ sơ thanh toán của Kế toán (không bao gồm lưu trữ hồ sơ tại CNTT),Hàng ngày,Hàng tuần,Hàng quý,Hàng tháng,2
+Các điểm cần lưu ý/ kỷ yếu lỗi của công tác quản lý kế toán,"Cần kiểm tra pháp nhân của các nhà cung cấp, đảm bảo không dính doanh nghiệp bỏ trốn.","Cần đối chiếu với danh sách tài sản thừa trên hệ thống khi thanh toán mua sắm tài sản, CCDC","Đảm bảo chi phí được ghi nhận đúng, đủ trong kỳ phát sinh",Cả 3 đáp án trên,4
+Ghi nhận công nợ cần lưu ý,"Các khoản chi phí đều nằm trong dự chi đã được CBLĐ phê duyệt. Trường hợp phê duyệt nợ hồ sơ gốc, nợ PR/PO/ Migo cần có xác nhận của CBQLNS và phải hoàn trả trong vòng 1 ngày. ","Các khoản chi phí đều nằm trong dự chi đã được CBLĐ phê duyệt. Trường hợp phê duyệt nợ hồ sơ gốc, nợ PR/PO/ Migo cần có xác nhận của CBQLNS và phải hoàn trả trong vòng 3 ngày. ","Các khoản chi phí đều nằm trong dự chi đã được CBLĐ phê duyệt. Trường hợp phê duyệt nợ hồ sơ gốc, nợ PR/PO/ Migo cần có xác nhận của CBQLNS và phải hoàn trả trong vòng 5 ngày. ","Các khoản chi phí đều nằm trong dự chi đã được CBLĐ phê duyệt. Trường hợp phê duyệt nợ hồ sơ gốc, nợ PR/PO/ Migo cần có xác nhận của CBQLNS và phải hoàn trả trong vòng 7 ngày. ",1
+Xử lý vi phạm chênh lệch TS khi có phát sinh/sau tổng kiểm kê đối với các tài sản bị mất + Thiếu không rõ nguyên nhân,Lỗi không tuân thủ quy định trong bộ quy định quy chế công ty,"B Đền bù: Lấy theo giá trị lớn hơn
+- Máy vi tính: 50% nguyên giá hoặc giá trị còn lại
+- Các TS khác:
++ Nếu <= 3 năm: 30% nguyên giá hoặc giá trị còn lại
++ Nếu > 3 năm: 20% nguyên giá hoặc giá trị còn
+lại",A và B,A hoặc B,3
+Thời hạn thanh toán 1 bộ hồ sơ thi công xây dựng là,2 ngày,"2 ngày đối với hồ sơ tạm ứng, thanh toán đợt, 7 ngày đối với hồ sơ quyết toán","2 ngày đối với hồ sơ tổ đội, 3 ngày đối với hồ sơ mua sắm thiết bị, vật tư","2 ngày đối với hồ sơ tạm ứng, thanh toán đợt, 3 ngày đối với hồ sơ mua sắm thiết bị, vật tư, 7 ngày đối với hồ sơ quyết toán. ",1
+"Thanh toán các Nhà thầu/Nhà cung cấp: Trong trường hợp khẩn, để đảm bảo thời hạn thanh toán thì chấp thuận việc thực hiện thanh toán qua bản Scan và cần hoàn chứng từ gốc trong vòng:",01 ngày sau đó ,02 ngày sau đó ,"01 ngày sau đó, không áp dụng việc này đối với Hồ sơ quyết toán. ","02 ngày sau đó, không áp dụng việc này đối với Hồ sơ quyết toán. ",4
+Thanh toán tổ độ cần hoàn hồ sơ bản cứng cho PTCKT trong vòng bao lâu kể từ thời điểm thanh toán.,5 ngày,7 ngày,15 ngày,30 ngày,2
+Các khoản chi thuộc nhóm ký hiệu Xanh do ai phê duyệt?,"GĐ Khối Hỗ trợ - PD chi phí lương, phúc lợi hàng tháng
+Cán bộ quản lý Ngân sách theo PL1 phê duyệt còn lại",TGĐ Công ty Vinhomes,PTGĐ Quản lý Xây dựng Công ty Vinhomes,PTGĐ Công ty Vincons,1
+Báo cáo rà soát GI/IR cần thực hiện,Hàng tuần,Hàng tháng,Hàng quý,Hàng năm,2
+Các khoản chi thuộc nhóm ký hiệu Đỏ do ai phê duyệt?,CTTĐ,PTGĐ Khối QLXD Công ty Vinhomes,Phó tổng Giám đốc thường trực,Cán bộ quản lý Ngân sách theo PL1 ,2
+Nghị định mới nhất về giảm thuế GTGT từ 10% xuống 8% được áp dụng trong thời gian nào?,Từ 01/01/2024 đến 30/6/2024 ,Từ 01/01/2024 đến 31/03/2024 ,Từ 01/01/2024 đến 30/09/2024 ,Từ 01/01/2024 đến 31/12/2024 ,1
+"Theo quy định VCONS_XD07_Quản lý vật tư máy móc thiết bị mã phát hành ngày 18/07/2023, đối với Nguyên vật liệu chính ( Thép, gạch, cát, xi măng, vữa khô…); BCH/KTC thực hiện Migo số liệu nhập, xuất kho trên hệ thống căn cứ theo PO mà P.VTTB gửi theo thời hạn tối đa nào?",Tuần + 3,Tuần + 5,Hàng ngày,1 tháng/1 lần,1
+Các khoản chi nào sau đây không được trừ khi tính thuế TNDN ?,Khoản tiền phạt do vi phạm hành chính,Khoản chi không có hóa đơn chứng từ,- Khoản trích khấu hao tài sản cố định không đúng quy định của pháp luật.,Cả 3 đáp án,4
+Ai là người chịu trách nhiệm cao nhất trong việc tổ chức hoạt động thanh tra của các Bộ phận,Phòng thanh tra,Cán bộ lãnh đạo bộ phận,Phòng NTNB - ATLĐ,Lãnh đạo Công ty,2
+Thời hạn tối đa để thanh tra một sư việc vi phạm là bao nhiêu tháng tính từ thời điểm sự việc vi phạm?,Tối đa 6 tháng tính từ ngày xảy ra sự việc vi phạm,Tối đa 3 tháng tính từ ngày xảy ra sự việc vi phạm,Tối đa 9 tháng tính từ ngày xảy ra sự việc vi phạm,Tối đa 12 tháng tính từ ngày xảy ra sự việc vi phạm,1
+Thời gian tối đa để thực hiện một vụ thanh tra (từ khi bắt đầu tới khi ra kết luận và trình phê duyệt của Lãnh đạo có thẩm quyền) tối đa là bao nhiêu ngày?,5 ngày,3 ngày,9 ngày,7 ngày,4
+Việc xử lý các hành vi vi phạm (bao gồm cả các  hành vi vi phạm đã thực hiện theo quy định trong quá khứ) sẽ được áp dụng theo các quy định tại thời điểm nào?,Quy định tại thời điểm xảy ra vi phạm,Theo các thông lệ đã XLVP trước đây,Quy định có hiệu lực tại thời điểm xử lý vi phạm. ,Không có đáp án nào đúng,3
+Nguyên tắc xử lý liên đới CBLĐ cấp trên đối với các vi phạm của cấp dưới,"CBLĐ cấp trên trực tiếp bị xử lý liên đới khi thiếu kiểm soát để CBNV cấp dưới vi phạm
+lỗi Nhóm 1, hoặc CBNV cấp dưới vi phạm quy định của Công ty trên diện rộng (nhiều
+CBNV cùng vi phạm, hoặc vi phạm trong thời gian từ 01 tháng trở lên nhưng không được
+phát hiện và/hoặc xử lý)","Các CBLĐ phụ trách Khối bị xử lý liên đới nếu để xảy ra các vi phạm trên diện rộng
+(CBNV nhiều bộ phận cùng vi phạm, hoặc vi phạm trong thời gian từ 01 tháng trở lên
+nhưng không được phát hiện và/hoặc xử lý)",Cả 2 phương án 1 và 2,Không có đáp án nào đúng,3
+"Mức XLVP lỗi nhóm 2 đối với cán bộ nhân viên cấp T4, T5, T6",Trừ 100% thưởng YTCLCV của 3 tháng,Trừ 10% thưởng YTCLCV của 01 tháng,Trừ từ 30% đến 100% thưởng YTCLCV của 01 tháng,Cả 3 đáp án,4
+"Mức XLVP lỗi nhóm 1 đối với cán bộ nhân viên cấp T7, T8 ","Sa thải hoặc chấm dứt HĐLĐ, hạ lương, trường hợp vi phạm pháp luật hình sự chuyển cơ quan Công an khởi tố theo quy định.",Trừ 100% thưởng YTCLCV của 3 tháng,Sa thải hoặc chấm dứt HĐLĐ,Trừ 100% thưởng YTCLCV của 3 tháng,1
+Thanh tra phải thực hiện việc gì trước khi gửi báo cáo thanh tra cho Lãnh đạo có thẩm quyền,Lập biên bản kỷ luật (nếu vi phạm có tình tiết đơn giản),Đưa kết luận thanh tra (nếu vi phạm có tình tiết phức tạp) cho đối tượng bị thanh tra xác nhận,Thống nhất với đối tượng bị thanh tra,Cả 2 phương án 1 và 2,4
+Trường hợp CBNV vi phạm không đồng ý với lỗi Thanh tra nhận định thì sẽ phải xử lý như thế nào?,Ghi nhận ý kiến của đối tượng bị thanh tra và báo cáo nguyên văn ý kiến của CBNV vi phạm.,Xin ý kiến của CBLĐ cấp trên của CBNV vi phạm.,"Sau khi có phê duyệt của Lãnh đạo, Thanh tra có trách nhiệm thông tin lại cho CBNV bị thanh tra về (i) lý do/căn cứ kết luận lỗi, và (ii) mức xử lý
+kỷ luật.",Cả 3 đáp án,4
+Khi trình duyệt XLVP cần phải tuân thủ quy định nào?,Mức XLVP theo QĐNBC,Không được trình mức XLVP ngoài QĐNBC,Trình Duyệt XLVP theo CNPQ,Cả 2 phương án 1 và 3,4
+"Nơi truy cập để xem các văn bản quy định, tài liệu chính thức",Cẩm nang thông tin,Cẩm nang quy định quy chế,Share Point,Các email phát hành văn bản,1
+CBNV mới được ký kết Hợp đồng tập nghề/ thử việc trong ngày làm việc đầu tiên và phải nộp đủ hồ sơ trong vòng bao nhiêu ngày?,5 ngày,7 ngày,10 ngày,15 ngày,1
+CBNV cần nộp Lý lịch tư pháp số 2 chậm nhất trong vòng bao lâu?,5 ngày,30 ngày,45 ngày,Trước khi ký HĐLĐ chính thức,4
+CBNV cấp T7 sau khi kết thúc thời gian thử việc/ tập nghề thì ký loại HĐLĐ gì?,HĐLĐ xác định thời hạn 12 tháng,HĐLĐ xác định thời hạn 24 tháng,HĐLĐ xác định thời hạn 36 tháng,HĐLĐ không xác định thời hạn,4
+Điều chuyển CBNV là gì?,Là việc CBNV được điều chuyển giữa các Khối/Phòng/Bộ phận Công ty,Là việc CBNV được chuyển sang P&L khác ,Là việc CBNV được điều chuyển giữa các Khối/Phòng/Bộ phận Công ty hoặc từ Công ty chuyển sang P&L khác và ngược lại (không áp dụng cho trường hợp CBNV chủ động xin nghỉ việc ở Công ty và sau đó xin việc tại P&L khác),Là việc CBNV chủ động xin nghỉ việc ở Công ty và sau đó xin việc tại P&L khác,3
+CBNV được mua Bảo hiểm sức khỏe khi nào?,Ngay sau khi ký HĐ Thử việc/ Tập nghề,Ngay sau khi ký HĐLĐ chính thức,6 tháng sau khi ký HĐLĐ,6 tháng sau khi ký HĐ Thử việc/ Tập nghề,2
+CBNV được đóng Bảo hiểm xã hội khi nào?,Không được đóng BHXH,Khi ký HĐ Thử việc/ Tập nghề,Khi ký HĐLĐ Chính thức,Khi ký hợp đồng dịch vụ,3
+Ai là người có thẩm quyền phê duyệt điều chuyển giữa các P&Ls đối với cấp T7 trong phạm vi phụ trách,CBQL ngân sách,"PTGĐTT PD (đồng PD với CBLĐ có thẩm quyền của P&L điều chuyển/ nhận điều chuyển đối với cấp T7 trở xuống còn lại trong phạm vi phụ trách).
+GĐ Vincons Windows - đồng PD với CBLĐ có thẩm quyền của P&L điều chuyển/ nhận điều chuyển đối với cấp T7 trở xuống trong phạm vi phụ trách)",PTGĐ Công ty Vincons - đồng PD với CBLĐ có thẩm quyền của P&L điều chuyển/ nhận điều chuyển,PTGĐ Khối QLXD đồng PD với CBLĐ có thẩm quyền của P&L điều chuyển/ nhận điều chuyển,2
