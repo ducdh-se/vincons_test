@@ -27,7 +27,7 @@
             "ZFI052",
             "ZFI053"
         ],
-        "answer": 2
+        "answer": 1
     },
     {
         "question": "Báo cáo nào thực hiện theo tần suất hàng Quý?",
@@ -84,7 +84,7 @@
         "option": [
             "- Đề nghị thanh toán nội bộ; đề nghị thanh toán của NCC\n- Bản duyệt\n- Hợp đồng/ phụ lục hợp đồng\n- Bảo lãnh thực hiện hợp đồng/ bảo lãnh tạm ứng\n- Hóa đơn\n- Bảng tổng hợp giá trị đề nghị quyết toán\n- Bảng tổng hợp khối lượng hoàn thành\n- Bảng diễn giải khối lượng hoàn thành\n- Bảng tổng hợp khấu trừ tiện ích và các biên bản đi kèm\n- Bảng tổng hợp khấu trừ chéo và các biên bản đi kèm\n- Bảng thống kê giá trị phạt\n- Biên bản xác nhận hết nghĩa vụ bảo hành\n\n",
             "- Đề nghị thanh toán nội bộ; đề nghị thanh toán của NCC\n- Hợp đồng/ phụ lục hợp đồng\n- Bảo lãnh thực hiện hợp đồng\n- Hóa đơn\n- Bảng tổng hợp giá trị đề nghị thanh toán\n- Bảng tổng hợp khối lượng hoàn thành\n- Bảng diễn giải khối lượng hoàn thành\n- Bảng tổng hợp khấu trừ tiện ích và các biên bản đi kèm\n- Bảng tổng hợp khấu trừ chéo và các biên bản đi kèm\n- Bảng thống kê giá trị phạt\n- Biên bản thanh lý hợp đồng. \n\n",
-            "C.- Đề nghị thanh toán nội bộ; đề nghị thanh toán của NCC\n- Hợp đồng/ phụ lục hợp đồng\n- Bảo lãnh bảo hành\n- Hóa đơn\n- Bảng tổng hợp giá trị đề nghị quyết toán\n- Bảng tổng hợp khối lượng hoàn thành\n- Bảng diễn giải khối lượng hoàn thành\n- Bảng tổng hợp khấu trừ tiện ích và các biên bản đi kèm\n- Bảng tổng hợp khấu trừ chéo và các biên bản đi kèm\n- Bảng thống kê giá trị phạt\n- Biên bản thanh lý hợp đồng. \n- Biên bản nghiệm thu hoàn thành đưa vào sử dụng.\n",
+            "- Đề nghị thanh toán nội bộ; đề nghị thanh toán của NCC\n- Hợp đồng/ phụ lục hợp đồng\n- Bảo lãnh bảo hành\n- Hóa đơn\n- Bảng tổng hợp giá trị đề nghị quyết toán\n- Bảng tổng hợp khối lượng hoàn thành\n- Bảng diễn giải khối lượng hoàn thành\n- Bảng tổng hợp khấu trừ tiện ích và các biên bản đi kèm\n- Bảng tổng hợp khấu trừ chéo và các biên bản đi kèm\n- Bảng thống kê giá trị phạt\n- Biên bản thanh lý hợp đồng. \n- Biên bản nghiệm thu hoàn thành đưa vào sử dụng.\n",
             "- Đề nghị thanh toán nội bộ; đề nghị thanh toán của NCC\n- Bản duyệt\n- Hợp đồng/ phụ lục hợp đồng\n- Bảo lãnh tạm ứng\n- Hóa đơn\n- Bảng tổng hợp giá trị đề nghị quyết toán\n- Bảng tổng hợp khối lượng hoàn thành\n- Bảng diễn giải khối lượng hoàn thành\n- Bảng tổng hợp khấu trừ tiện ích và các biên bản đi kèm\n- Bảng tổng hợp khấu trừ chéo và các biên bản đi kèm\n- Bảng thống kê giá trị phạt\n- Biên bản xác nhận hết nghĩa vụ bảo hành\n\n"
         ],
         "answer": 3
@@ -203,7 +203,7 @@
         "question": "Xử lý vi phạm chênh lệch TS khi có phát sinh/sau tổng kiểm kê đối với các tài sản bị mất + Thiếu không rõ nguyên nhân",
         "option": [
             "Lỗi không tuân thủ quy định trong bộ quy định quy chế công ty",
-            "B Đền bù: Lấy theo giá trị lớn hơn\n- Máy vi tính: 50% nguyên giá hoặc giá trị còn lại\n- Các TS khác:\n+ Nếu <= 3 năm: 30% nguyên giá hoặc giá trị còn lại\n+ Nếu > 3 năm: 20% nguyên giá hoặc giá trị còn\nlại",
+            "Đền bù: Lấy theo giá trị lớn hơn\n- Máy vi tính: 50% nguyên giá hoặc giá trị còn lại\n- Các TS khác:\n+ Nếu <= 3 năm: 30% nguyên giá hoặc giá trị còn lại\n+ Nếu > 3 năm: 20% nguyên giá hoặc giá trị còn\nlại",
             "A và B",
             "A hoặc B"
         ],

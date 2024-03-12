@@ -1,7 +1,7 @@
 ﻿question,option1,option2,option3,option4,answer
 Tiêu chuẩn nhận biết 1 tài sản cố định?,Chắc chắn thu được lợi ích kinh tế trong tương lai từ việc sử dụng tài sản đó,Có thời gian sử dụng trên 1 năm trở lên,Nguyên giá tài sản phải được xác định một cách tin cậy và có giá trị từ 30.000.000 đồng (Ba mươi triệu đồng) trở lên.,Cả 3 đáp án trên,4
 "Với công ty Vincons hoạt động ở thời điểm hiện tại, phần trích khấu hao tương ứng với nguyên giá vượt trên 1,6 tỷ đồng/xe đối với ô tô chở người từ 9 chỗ ngồi trở xuống thì:",Được tính vào chi phí được trừ khi xác định thu nhập chịu thuế,Được tính vào chi phí được trừ khi xác định thu nhập chịu thuế khi có đầy đủ hố sơ mua tài sản,Được tính vào chi phí được trừ khi xác định thu nhập chịu thuế khi có đầy đủ hố sơ mua tài sản và chứng minh tài sản được tài sản này phục vụ hoạt động kinh doanh của công ty,Không được tính vào chi phí được trừ khi xác định thu nhập chịu thuế,4
-Tcode thực hiện điều chuyển tài sản?,ZFI058,ZFI051,ZFI052,ZFI053,2
+Tcode thực hiện điều chuyển tài sản?,ZFI058,ZFI051,ZFI052,ZFI053,1
 Báo cáo nào thực hiện theo tần suất hàng Quý?,Báo cáo bảo lãnh,Báo cáo tiền,Báo cáo rà soát công nợ 90 ngày,Báo cáo tạm ứng,3
 Tcode xuất báo cáo tổng hợp công nợ theo nhà cung cấp?,ZPPC,ZFI023A,ZFI024A,ZFI015,2
 Hạch toán thanh toán khi tạm ứng tiền cho NCC trên SAP?,Nợ TK 331/ Có TK 113 => Nợ TK 113/ Có TK 112,Nợ TK 331/ Có TK 112,Nợ TK 113/ Có TK 112 => Nợ TK 141/ Có TK 113,Không đáp án nào đúng,1
@@ -32,7 +32,7 @@ Hạch toán thanh toán khi tạm ứng tiền cho NCC trên SAP?,Nợ TK 331/ 
 - Bảng thống kê giá trị phạt
 - Biên bản thanh lý hợp đồng. 
 
-","C.- Đề nghị thanh toán nội bộ; đề nghị thanh toán của NCC
+","- Đề nghị thanh toán nội bộ; đề nghị thanh toán của NCC
 - Hợp đồng/ phụ lục hợp đồng
 - Bảo lãnh bảo hành
 - Hóa đơn
@@ -69,7 +69,7 @@ Mã giao dịch (Tcode) nào dùng để xem tồn kho tại một thời điể
 Thời gian thực hiện lưu trữ hồ sơ thanh toán của Kế toán (không bao gồm lưu trữ hồ sơ tại CNTT),Hàng ngày,Hàng tuần,Hàng quý,Hàng tháng,2
 Các điểm cần lưu ý/ kỷ yếu lỗi của công tác quản lý kế toán,"Cần kiểm tra pháp nhân của các nhà cung cấp, đảm bảo không dính doanh nghiệp bỏ trốn.","Cần đối chiếu với danh sách tài sản thừa trên hệ thống khi thanh toán mua sắm tài sản, CCDC","Đảm bảo chi phí được ghi nhận đúng, đủ trong kỳ phát sinh",Cả 3 đáp án trên,4
 Ghi nhận công nợ cần lưu ý,"Các khoản chi phí đều nằm trong dự chi đã được CBLĐ phê duyệt. Trường hợp phê duyệt nợ hồ sơ gốc, nợ PR/PO/ Migo cần có xác nhận của CBQLNS và phải hoàn trả trong vòng 1 ngày. ","Các khoản chi phí đều nằm trong dự chi đã được CBLĐ phê duyệt. Trường hợp phê duyệt nợ hồ sơ gốc, nợ PR/PO/ Migo cần có xác nhận của CBQLNS và phải hoàn trả trong vòng 3 ngày. ","Các khoản chi phí đều nằm trong dự chi đã được CBLĐ phê duyệt. Trường hợp phê duyệt nợ hồ sơ gốc, nợ PR/PO/ Migo cần có xác nhận của CBQLNS và phải hoàn trả trong vòng 5 ngày. ","Các khoản chi phí đều nằm trong dự chi đã được CBLĐ phê duyệt. Trường hợp phê duyệt nợ hồ sơ gốc, nợ PR/PO/ Migo cần có xác nhận của CBQLNS và phải hoàn trả trong vòng 7 ngày. ",1
-Xử lý vi phạm chênh lệch TS khi có phát sinh/sau tổng kiểm kê đối với các tài sản bị mất + Thiếu không rõ nguyên nhân,Lỗi không tuân thủ quy định trong bộ quy định quy chế công ty,"B Đền bù: Lấy theo giá trị lớn hơn
+Xử lý vi phạm chênh lệch TS khi có phát sinh/sau tổng kiểm kê đối với các tài sản bị mất + Thiếu không rõ nguyên nhân,Lỗi không tuân thủ quy định trong bộ quy định quy chế công ty,"Đền bù: Lấy theo giá trị lớn hơn
 - Máy vi tính: 50% nguyên giá hoặc giá trị còn lại
 - Các TS khác:
 + Nếu <= 3 năm: 30% nguyên giá hoặc giá trị còn lại
