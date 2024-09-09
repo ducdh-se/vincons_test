@@ -25,7 +25,7 @@
             "ZFI058",
             "ZFI051",
             "ZFI052",
-            "ZFI053"
+            "ZFI057"
         ],
         "answer": 1
     },
@@ -62,100 +62,100 @@
     {
         "question": "Khi kiểm tra thông tin hóa đơn, kế toán cần lưu ý gì?",
         "option": [
-            "Check thông tin hóa đơn phải ghi đầy đủ tên, MST, địa chỉ công ty, cần tra cứu thông tin phát hành hóa đơn, hoạt động của nhà cung cấp trên trang http://tracuuhoadon.gdt.gov.vn",
-            "Hóa đơn xuất đúng nội dung, mặt hàng theo hợp đồng, đơn hàng đã ký.",
-            "Giá trị trên hóa đơn  xuất theo đúng điều khoản hợp đồng, khối lượng hoàn thành, phù hợp với biên bản bàn giao. So sánh giá trị trên hóa đơn GTGT với giá trị trong bảng tổng hợp đề nghị thanh/ quyết toán. Giá trị hóa đơn nhà thầu xuất lũy kế không thể thấp hơn giá trị nghiệm thu đợt, quyết toán.",
-            "Cả 3 đáp án trên"
+            "A. Check thông tin hóa đơn phải ghi đầy đủ tên, MST, địa chỉ công ty, cần tra cứu thông tin phát hành hóa đơn, hoạt động của nhà cung cấp trên trang http://tracuuhoadon.gdt.gov.vn",
+            "B. Hóa đơn xuất đúng nội dung, mặt hàng theo hợp đồng, đơn hàng đã ký.",
+            "C. Giá trị trên hóa đơn  xuất theo đúng điều khoản hợp đồng, khối lượng hoàn thành, phù hợp với biên bản bàn giao. So sánh giá trị trên hóa đơn GTGT với giá trị trong bảng tổng hợp đề nghị thanh/ quyết toán. Giá trị hóa đơn nhà thầu xuất lũy kế không thể thấp hơn giá trị nghiệm thu đợt, quyết toán.",
+            "D. Cả 3 đáp án trên"
         ],
         "answer": 4
     },
     {
         "question": "Khi thực hiện chuyển tiền cho nhà cung cấp, khách hàng Kế toán cần:",
         "option": [
-            "Khi kết xuất file thông tin chuyển tiền từ SAP cần kiểm tra chính xác: đơn vị hưởng, số tài khoản, ngân hàng trước khi đưa file lên ngân hàng. ",
-            "Ký nháy vào mục kế toán kiểm tra chứng từ và đánh dấu vào các chứng từ như BB thẩm định, BB thanh lý, BB nghiệm thu, tờ trình phê duyệt, trang điều khoản thanh toán, tiến độ thực hiện, điều khoản bảo lãnh, các trang có số liệu liên quan đến khấu trừ.... trước khi trình ký LĐ",
-            "Follow tiền thanh toán đến khi tiền cắt khỏi tài khoản, đóng dấu đã thanh toán, điền ngày thanh toán vào hồ sơ đã được thanh toán. ",
-            "Cả 3 đáp án trên"
+            "A. Khi kết xuất file thông tin chuyển tiền từ SAP cần kiểm tra chính xác: đơn vị hưởng, số tài khoản, ngân hàng trước khi đưa file lên ngân hàng. ",
+            "B. Ký nháy vào mục kế toán kiểm tra chứng từ và đánh dấu vào các chứng từ như BB thẩm định, BB thanh lý, BB nghiệm thu, tờ trình phê duyệt, trang điều khoản thanh toán, tiến độ thực hiện, điều khoản bảo lãnh, các trang có số liệu liên quan đến khấu trừ.... trước khi trình ký LĐ",
+            "C. Follow tiền thanh toán đến khi tiền cắt khỏi tài khoản, đóng dấu đã thanh toán, điền ngày thanh toán vào hồ sơ đã được thanh toán. ",
+            "D. Cả 3 đáp án trên"
         ],
         "answer": 4
     },
     {
         "question": "Đối với các hồ sơ xây dựng có nhiều đợt thanh toán, khi kiểm tra đợt quyết toán với NCC, danh mục hồ sơ đầy đủ nhất bao gồm:",
         "option": [
-            "- Đề nghị thanh toán nội bộ; đề nghị thanh toán của NCC\n- Bản duyệt\n- Hợp đồng/ phụ lục hợp đồng\n- Bảo lãnh thực hiện hợp đồng/ bảo lãnh tạm ứng\n- Hóa đơn\n- Bảng tổng hợp giá trị đề nghị quyết toán\n- Bảng tổng hợp khối lượng hoàn thành\n- Bảng diễn giải khối lượng hoàn thành\n- Bảng tổng hợp khấu trừ tiện ích và các biên bản đi kèm\n- Bảng tổng hợp khấu trừ chéo và các biên bản đi kèm\n- Bảng thống kê giá trị phạt\n- Biên bản xác nhận hết nghĩa vụ bảo hành\n\n",
-            "- Đề nghị thanh toán nội bộ; đề nghị thanh toán của NCC\n- Hợp đồng/ phụ lục hợp đồng\n- Bảo lãnh thực hiện hợp đồng\n- Hóa đơn\n- Bảng tổng hợp giá trị đề nghị thanh toán\n- Bảng tổng hợp khối lượng hoàn thành\n- Bảng diễn giải khối lượng hoàn thành\n- Bảng tổng hợp khấu trừ tiện ích và các biên bản đi kèm\n- Bảng tổng hợp khấu trừ chéo và các biên bản đi kèm\n- Bảng thống kê giá trị phạt\n- Biên bản thanh lý hợp đồng. \n\n",
-            "- Đề nghị thanh toán nội bộ; đề nghị thanh toán của NCC\n- Hợp đồng/ phụ lục hợp đồng\n- Bảo lãnh bảo hành\n- Hóa đơn\n- Bảng tổng hợp giá trị đề nghị quyết toán\n- Bảng tổng hợp khối lượng hoàn thành\n- Bảng diễn giải khối lượng hoàn thành\n- Bảng tổng hợp khấu trừ tiện ích và các biên bản đi kèm\n- Bảng tổng hợp khấu trừ chéo và các biên bản đi kèm\n- Bảng thống kê giá trị phạt\n- Biên bản thanh lý hợp đồng. \n- Biên bản nghiệm thu hoàn thành đưa vào sử dụng.\n",
-            "- Đề nghị thanh toán nội bộ; đề nghị thanh toán của NCC\n- Bản duyệt\n- Hợp đồng/ phụ lục hợp đồng\n- Bảo lãnh tạm ứng\n- Hóa đơn\n- Bảng tổng hợp giá trị đề nghị quyết toán\n- Bảng tổng hợp khối lượng hoàn thành\n- Bảng diễn giải khối lượng hoàn thành\n- Bảng tổng hợp khấu trừ tiện ích và các biên bản đi kèm\n- Bảng tổng hợp khấu trừ chéo và các biên bản đi kèm\n- Bảng thống kê giá trị phạt\n- Biên bản xác nhận hết nghĩa vụ bảo hành\n\n"
+            "A. - Đề nghị thanh toán nội bộ; đề nghị thanh toán của NCC\n- Bản duyệt\n- Hợp đồng/ phụ lục hợp đồng\n- Bảo lãnh thực hiện hợp đồng/ bảo lãnh tạm ứng\n- Hóa đơn\n- Bảng tổng hợp giá trị đề nghị quyết toán\n- Bảng tổng hợp khối lượng hoàn thành\n- Bảng diễn giải khối lượng hoàn thành\n- Bảng tổng hợp khấu trừ tiện ích và các biên bản đi kèm\n- Bảng tổng hợp khấu trừ chéo và các biên bản đi kèm\n- Bảng thống kê giá trị phạt\n- Biên bản xác nhận hết nghĩa vụ bảo hành\n\n",
+            "B. - Đề nghị thanh toán nội bộ; đề nghị thanh toán của NCC\n- Hợp đồng/ phụ lục hợp đồng\n- Bảo lãnh thực hiện hợp đồng\n- Hóa đơn\n- Bảng tổng hợp giá trị đề nghị thanh toán\n- Bảng tổng hợp khối lượng hoàn thành\n- Bảng diễn giải khối lượng hoàn thành\n- Bảng tổng hợp khấu trừ tiện ích và các biên bản đi kèm\n- Bảng tổng hợp khấu trừ chéo và các biên bản đi kèm\n- Bảng thống kê giá trị phạt\n- Biên bản thanh lý hợp đồng. \n\n",
+            "C.- Đề nghị thanh toán nội bộ; đề nghị thanh toán của NCC\n- Hợp đồng/ phụ lục hợp đồng\n- Bảo lãnh bảo hành\n- Hóa đơn\n- Bảng tổng hợp giá trị đề nghị quyết toán\n- Bảng tổng hợp khối lượng hoàn thành\n- Bảng diễn giải khối lượng hoàn thành\n- Bảng tổng hợp khấu trừ tiện ích và các biên bản đi kèm\n- Bảng tổng hợp khấu trừ chéo và các biên bản đi kèm\n- Bảng thống kê giá trị phạt\n- Biên bản thanh lý hợp đồng. \n- Biên bản nghiệm thu hoàn thành đưa vào sử dụng.\n",
+            "D. - Đề nghị thanh toán nội bộ; đề nghị thanh toán của NCC\n- Bản duyệt\n- Hợp đồng/ phụ lục hợp đồng\n- Bảo lãnh tạm ứng\n- Hóa đơn\n- Bảng tổng hợp giá trị đề nghị quyết toán\n- Bảng tổng hợp khối lượng hoàn thành\n- Bảng diễn giải khối lượng hoàn thành\n- Bảng tổng hợp khấu trừ tiện ích và các biên bản đi kèm\n- Bảng tổng hợp khấu trừ chéo và các biên bản đi kèm\n- Bảng thống kê giá trị phạt\n- Biên bản xác nhận hết nghĩa vụ bảo hành\n\n"
         ],
         "answer": 3
     },
     {
         "question": "Ai được quyền phê duyệt chi phí phạt do vi phạm hành chính",
         "option": [
-            "TGĐ Công ty Vinhomes",
-            "PTGĐ Quản lý Xây dựng Công ty Vinhomes",
-            "PTGĐ Công ty Vincons",
-            "Không có đáp án đúng"
+            "A. TGĐ Công ty Vinhomes",
+            "B. PTGĐ Quản lý Xây dựng Công ty Vinhomes",
+            "C. PTGĐ Công ty Vincons",
+            "D. Không có đáp án đúng"
         ],
         "answer": 4
     },
     {
-        "question": "Ai được quyền duyệt chi tạm ứng tối đa 80% giá trị quyết toán",
+        "question": " \nTạm ứng tối đa 80% giá trị quyết toán (nhà thầu đã nộp hồ sơ và phòng thanh quyết toán đã thẩm định vòng 1, đang thẩm định vòng 2 (không áp dụng đại trà, chỉ ưu tiên vào các dịp lễ tết)",
         "option": [
-            "Cán bộ quản lý Ngân sách theo PL1",
-            "TGĐ Công ty Vinhomes",
-            "PTGĐ Quản lý Xây dựng Công ty Vinhomes",
-            "PTGĐ Công ty Vincons"
+            "A. Cán bộ quản lý Ngân sách theo PL1",
+            "B. TGĐ Công ty Vinhomes",
+            "C. PTGĐ Khối QLXD Công ty Vinhomes",
+            "D. PTGĐ Công ty Vincons"
         ],
         "answer": 3
     },
     {
         "question": "Tiền công tác phí ngắn ngày cho cấp T7, T8 bao nhiêu tiền 1 ngày?",
         "option": [
-            "200.000 VND",
-            "300.000 VND",
-            "400.000 VND",
-            "500.000 VND"
+            "A. 200.000 VND",
+            "B. 300.000 VND",
+            "C. 400.000 VND",
+            "D. 500.000 VND"
         ],
         "answer": 1
     },
     {
         "question": "PTCKT cần đưa báo cáo bảo lãnh lên Cẩm nang thông tin để các bộ phận tra cứu định kỳ khi nào?",
         "option": [
-            "Ngay khi phát sinh với các trường hợp xử lý gấp",
-            "Chậm nhất ngày 15 hàng tháng",
-            "Hàng quý",
-            "Đáp án A và B"
+            "A. Ngay khi phát sinh với các trường hợp xử lý gấp",
+            "B. Chậm nhất ngày 15 hàng tháng",
+            "C. Hàng quý",
+            "D. Đáp án A và B"
         ],
         "answer": 4
     },
     {
         "question": "Ngay sau khi ký hợp đồng và trước khi thanh toán hoặc khi có phát sinh, BP cần phải làm gì với thư BL",
         "option": [
-            "Yêu cầu NT/NCC phát hành thư BL theo quy định",
-            "Kiểm tra thư BL nhận được đảm bảo tuân thủ đúng theo quy định (tuân thủ đúng mẫu do Tập đoàn ban hành và nội dung phù hợp với phê duyệt của CBLĐ)",
-            "Chuyển thư BL cho PKT",
-            "Tất cả các đáp án trên"
+            "A. Yêu cầu NT/NCC phát hành thư BL theo quy định",
+            "B. Kiểm tra thư BL nhận được đảm bảo tuân thủ đúng theo quy định (tuân thủ đúng mẫu do Tập đoàn ban hành và nội dung phù hợp với phê duyệt của CBLĐ)",
+            "C. Chuyển thư BL cho PKT",
+            "D. Tất cả các đáp án trên"
         ],
         "answer": 4
     },
     {
         "question": "Bộ phận cần lập PR chi phí khi nào?",
         "option": [
-            "Khi có phát sinh",
-            "Khi có Hợp đồng",
-            "Khi có Hợp đồng và BBGN",
-            "Khi có Hợp đồng và BBGN và Hóa đơn"
+            "A. Khi có phát sinh",
+            "B. Khi có Hợp đồng",
+            "C. Khi có Hợp đồng và BBGN",
+            "D. Khi có Hợp đồng và BBGN và Hóa đơn"
         ],
         "answer": 1
     },
     {
         "question": "Trách nhiệm của BP phải rà soát PR/PO theo tần suất nào?",
         "option": [
-            "Hàng tuần",
-            "Hàng tháng",
-            "Hàng quý",
-            "Không có trách nhiệm rà soát"
+            "A. Hàng tuần",
+            "B. Hàng tháng",
+            "C. Hàng quý",
+            "D. Không có trách nhiệm rà soát"
         ],
         "answer": 2
     },
@@ -170,102 +170,122 @@
         "answer": 3
     },
     {
-        "question": "Thời gian thực hiện lưu trữ hồ sơ thanh toán của Kế toán (không bao gồm lưu trữ hồ sơ tại CNTT)",
+        "question": "Các khoản chi thuộc nhóm ký hiệu TÍM do ai phê duyệt",
         "option": [
-            "Hàng ngày",
-            "Hàng tuần",
-            "Hàng quý",
-            "Hàng tháng"
+            "A. CBQL ngân sách",
+            "B. PTGĐ Khối HTXD Công ty Vinhomes - PD cho Khối SXBT; PTGĐ Khối QLXD Công ty Vinhomes - PD còn lại.",
+            "C. PTGĐKQLXD",
+            "D. TGĐ Cty Vinhomes"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "PR sản lượng tổ đội ngắn hạn được tạo PR type thế nào",
+        "option": [
+            "A. Type A, Account asigment : A",
+            "B. Type : Purchase Requition, Account Assignment : Trống",
+            "C. Type : Expense PR, Account Assigment P",
+            "D. type Expense PR, Account Asignment : K"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Thời gian thực hiện lưu trữ hồ sơ thanh toán của Kế toán (không bao gồm lưu trữ hồ sơ tại CNTT) theo sổ tay công việc",
+        "option": [
+            "A. Hàng ngày",
+            "B. Hàng tuần",
+            "C. Hàng quý",
+            "D. Hàng tháng"
         ],
         "answer": 2
     },
     {
         "question": "Các điểm cần lưu ý/ kỷ yếu lỗi của công tác quản lý kế toán",
         "option": [
-            "Cần kiểm tra pháp nhân của các nhà cung cấp, đảm bảo không dính doanh nghiệp bỏ trốn.",
-            "Cần đối chiếu với danh sách tài sản thừa trên hệ thống khi thanh toán mua sắm tài sản, CCDC",
-            "Đảm bảo chi phí được ghi nhận đúng, đủ trong kỳ phát sinh",
-            "Cả 3 đáp án trên"
+            "A. Cần kiểm tra pháp nhân của các nhà cung cấp, đảm bảo không dính doanh nghiệp bỏ trốn.",
+            "B. Cần đối chiếu với danh sách tài sản thừa trên hệ thống khi thanh toán mua sắm tài sản, CCDC",
+            "C. Đảm bảo chi phí được ghi nhận đúng, đủ trong kỳ phát sinh",
+            "D. Cả 3 đáp án trên"
         ],
         "answer": 4
     },
     {
         "question": "Ghi nhận công nợ cần lưu ý",
         "option": [
-            "Các khoản chi phí đều nằm trong dự chi đã được CBLĐ phê duyệt. Trường hợp phê duyệt nợ hồ sơ gốc, nợ PR/PO/ Migo cần có xác nhận của CBQLNS và phải hoàn trả trong vòng 1 ngày. ",
-            "Các khoản chi phí đều nằm trong dự chi đã được CBLĐ phê duyệt. Trường hợp phê duyệt nợ hồ sơ gốc, nợ PR/PO/ Migo cần có xác nhận của CBQLNS và phải hoàn trả trong vòng 3 ngày. ",
-            "Các khoản chi phí đều nằm trong dự chi đã được CBLĐ phê duyệt. Trường hợp phê duyệt nợ hồ sơ gốc, nợ PR/PO/ Migo cần có xác nhận của CBQLNS và phải hoàn trả trong vòng 5 ngày. ",
-            "Các khoản chi phí đều nằm trong dự chi đã được CBLĐ phê duyệt. Trường hợp phê duyệt nợ hồ sơ gốc, nợ PR/PO/ Migo cần có xác nhận của CBQLNS và phải hoàn trả trong vòng 7 ngày. "
+            "A. Các khoản chi phí đều nằm trong dự chi đã được CBLĐ phê duyệt. Trường hợp phê duyệt nợ hồ sơ gốc, nợ PR/PO/ Migo cần có xác nhận của CBQLNS và phải hoàn trả trong vòng 1 ngày. ",
+            "B. Các khoản chi phí đều nằm trong dự chi đã được CBLĐ phê duyệt. Trường hợp phê duyệt nợ hồ sơ gốc, nợ PR/PO/ Migo cần có xác nhận của CBQLNS và phải hoàn trả trong vòng 3 ngày. ",
+            "C. Các khoản chi phí đều nằm trong dự chi đã được CBLĐ phê duyệt. Trường hợp phê duyệt nợ hồ sơ gốc, nợ PR/PO/ Migo cần có xác nhận của CBQLNS và phải hoàn trả trong vòng 5 ngày. ",
+            "D. Các khoản chi phí đều nằm trong dự chi đã được CBLĐ phê duyệt. Trường hợp phê duyệt nợ hồ sơ gốc, nợ PR/PO/ Migo cần có xác nhận của CBQLNS và phải hoàn trả trong vòng 7 ngày. "
         ],
-        "answer": 1
+        "answer": 2
     },
     {
         "question": "Xử lý vi phạm chênh lệch TS khi có phát sinh/sau tổng kiểm kê đối với các tài sản bị mất + Thiếu không rõ nguyên nhân",
         "option": [
-            "Lỗi không tuân thủ quy định trong bộ quy định quy chế công ty",
-            "Đền bù: Lấy theo giá trị lớn hơn\n- Máy vi tính: 50% nguyên giá hoặc giá trị còn lại\n- Các TS khác:\n+ Nếu <= 3 năm: 30% nguyên giá hoặc giá trị còn lại\n+ Nếu > 3 năm: 20% nguyên giá hoặc giá trị còn\nlại",
-            "A và B",
-            "A hoặc B"
+            "A. Lỗi không tuân thủ quy định trong bộ quy định quy chế công ty",
+            "B Đền bù: Lấy theo giá trị lớn hơn\n- Máy vi tính: 50% nguyên giá hoặc giá trị còn lại\n- Các TS khác:\n+ Nếu <= 3 năm: 30% nguyên giá hoặc giá trị còn lại\n+ Nếu > 3 năm: 20% nguyên giá hoặc giá trị còn\nlại",
+            "C. A và B",
+            "D. A hoặc B"
         ],
         "answer": 3
     },
     {
         "question": "Thời hạn thanh toán 1 bộ hồ sơ thi công xây dựng là",
         "option": [
-            "2 ngày",
-            "2 ngày đối với hồ sơ tạm ứng, thanh toán đợt, 7 ngày đối với hồ sơ quyết toán",
-            "2 ngày đối với hồ sơ tổ đội, 3 ngày đối với hồ sơ mua sắm thiết bị, vật tư",
-            "2 ngày đối với hồ sơ tạm ứng, thanh toán đợt, 3 ngày đối với hồ sơ mua sắm thiết bị, vật tư, 7 ngày đối với hồ sơ quyết toán. "
+            "A. 2 ngày",
+            "B. 2 ngày đối với hồ sơ tạm ứng, thanh toán đợt, 7 ngày đối với hồ sơ quyết toán",
+            "C. 2 ngày đối với hồ sơ tổ đội, 3 ngày đối với hồ sơ mua sắm thiết bị, vật tư",
+            "D. 2 ngày đối với hồ sơ tạm ứng, thanh toán đợt, 3 ngày đối với hồ sơ mua sắm thiết bị, vật tư, 7 ngày đối với hồ sơ quyết toán. "
         ],
         "answer": 1
     },
     {
         "question": "Thanh toán các Nhà thầu/Nhà cung cấp: Trong trường hợp khẩn, để đảm bảo thời hạn thanh toán thì chấp thuận việc thực hiện thanh toán qua bản Scan và cần hoàn chứng từ gốc trong vòng:",
         "option": [
-            "01 ngày sau đó ",
-            "02 ngày sau đó ",
-            "01 ngày sau đó, không áp dụng việc này đối với Hồ sơ quyết toán. ",
+            "A. 01 ngày sau đó ",
+            "B. 02 ngày sau đó ",
+            "C. 01 ngày sau đó, không áp dụng việc này đối với Hồ sơ quyết toán. ",
             "02 ngày sau đó, không áp dụng việc này đối với Hồ sơ quyết toán. "
         ],
         "answer": 4
     },
     {
-        "question": "Thanh toán tổ độ cần hoàn hồ sơ bản cứng cho PTCKT trong vòng bao lâu kể từ thời điểm thanh toán.",
+        "question": "Thanh toán tổ đội cần hoàn hồ sơ bản cứng cho PTCKT trong vòng bao lâu kể từ thời điểm thanh toán.",
         "option": [
-            "5 ngày",
-            "7 ngày",
-            "15 ngày",
-            "30 ngày"
+            "A. 5 ngày",
+            "B. 7 ngày",
+            "C. 15 ngày",
+            "D. 30 ngày"
         ],
         "answer": 2
     },
     {
         "question": "Các khoản chi thuộc nhóm ký hiệu Xanh do ai phê duyệt?",
         "option": [
-            "GĐ Khối Hỗ trợ - PD chi phí lương, phúc lợi hàng tháng\nCán bộ quản lý Ngân sách theo PL1 phê duyệt còn lại",
-            "TGĐ Công ty Vinhomes",
-            "PTGĐ Quản lý Xây dựng Công ty Vinhomes",
-            "PTGĐ Công ty Vincons"
+            "A. GĐ Hành chính Nhân sự - PD chi phí lương, phúc lợi hàng tháng - PD chi phí lương, phúc lợi hàng tháng\nCán bộ quản lý Ngân sách theo PL1 phê duyệt còn lại",
+            "B. Cán bộ quản lý Ngân sách theo PL1",
+            "C. PTGĐ Quản lý Xây dựng Công ty Vinhomes",
+            "D. PTGĐ Công ty Vincons"
         ],
         "answer": 1
     },
     {
         "question": "Báo cáo rà soát GI/IR cần thực hiện",
         "option": [
-            "Hàng tuần",
-            "Hàng tháng",
-            "Hàng quý",
-            "Hàng năm"
+            "A. Hàng tuần",
+            "B. Hàng tháng",
+            "C. Hàng quý",
+            "D. Hàng năm"
         ],
         "answer": 2
     },
     {
         "question": "Các khoản chi thuộc nhóm ký hiệu Đỏ do ai phê duyệt?",
         "option": [
-            "CTTĐ",
-            "PTGĐ Khối QLXD Công ty Vinhomes",
-            "Phó tổng Giám đốc thường trực",
-            "Cán bộ quản lý Ngân sách theo PL1 "
+            "A. CTTĐ",
+            "B. PTGĐ Khối QLXD Công ty Vinhomes",
+            "C. Phó tổng Giám đốc thường trực",
+            "D. Cán bộ quản lý Ngân sách theo PL1 "
         ],
         "answer": 2
     },
@@ -352,17 +372,17 @@
     {
         "question": "Mức XLVP lỗi nhóm 2 đối với cán bộ nhân viên cấp T4, T5, T6",
         "option": [
-            "Trừ 100% thưởng YTCLCV của 3 tháng",
-            "Trừ 10% thưởng YTCLCV của 01 tháng",
-            "Trừ từ 30% đến 100% thưởng YTCLCV của 01 tháng",
-            "Cả 3 đáp án"
+            "A. Trừ 100% thưởng YTCLCV của 3 tháng",
+            "B. Trừ 10% thưởng YTCLCV của 01 tháng",
+            "C. Trừ từ 30% đến 100% thưởng YTCLCV của 01 tháng",
+            "D. Cả 3 đáp án"
         ],
         "answer": 4
     },
     {
         "question": "Mức XLVP lỗi nhóm 1 đối với cán bộ nhân viên cấp T7, T8 ",
         "option": [
-            "Sa thải hoặc chấm dứt HĐLĐ, hạ lương, trường hợp vi phạm pháp luật hình sự chuyển cơ quan Công an khởi tố theo quy định.",
+            "Sa thải hoặc chấm dứt HĐLĐ, hạ\nlương, trường hợp vi phạm pháp luật hình sự chuyển cơ quan Công an khởi tố theo quy định. ",
             "Trừ 100% thưởng YTCLCV của 3 tháng",
             "Sa thải hoặc chấm dứt HĐLĐ",
             "Trừ 100% thưởng YTCLCV của 3 tháng"
@@ -410,9 +430,9 @@
         "answer": 1
     },
     {
-        "question": "CBNV mới được ký kết Hợp đồng tập nghề/ thử việc trong ngày làm việc đầu tiên và phải nộp đủ hồ sơ trong vòng bao nhiêu ngày?",
+        "question": "CBNV mới được ký kết Hợp đồng tập nghề/ thử việc trong ngày làm việc đầu tiên và phải nộp đủ hồ sơ trong vòng bao nhiêu ngày? (Trừ phiếu xác nhận lý lịch tư pháp số 2)",
         "option": [
-            "5 ngày",
+            "Trong vòng 05 ngày kể từ ngày nhận việc",
             "7 ngày",
             "10 ngày",
             "15 ngày"
@@ -425,7 +445,7 @@
             "5 ngày",
             "30 ngày",
             "45 ngày",
-            "Trước khi ký HĐLĐ chính thức"
+            "Trước khi ký hợp đồng lao động"
         ],
         "answer": 4
     },
@@ -473,7 +493,7 @@
         "question": "Ai là người có thẩm quyền phê duyệt điều chuyển giữa các P&Ls đối với cấp T7 trong phạm vi phụ trách",
         "option": [
             "CBQL ngân sách",
-            "PTGĐTT PD (đồng PD với CBLĐ có thẩm quyền của P&L điều chuyển/ nhận điều chuyển đối với cấp T7 trở xuống còn lại trong phạm vi phụ trách).\nGĐ Vincons Windows - đồng PD với CBLĐ có thẩm quyền của P&L điều chuyển/ nhận điều chuyển đối với cấp T7 trở xuống trong phạm vi phụ trách)",
+            "Các PTGĐ đồng PD với CBLĐ có thẩm quyền của P&L điều chuyển/ nhận điều chuyển đối với cấp T7 trở xuống trong phạm vi phụ trách; CBQLNS Khối SXBT đồng PD với CBLĐ có thẩm quyền của P&L điều chuyển/ nhận điều chuyển đối với cấp T7 trở xuống thuộc Khối SXBT;\nTGĐ Vincons Windows - đồng PD với CBLĐ có thẩm quyền của P&L điều chuyển/ nhận điều chuyển đối với cấp T7 trở xuống cho Công ty Vincons Windows. ",
             "PTGĐ Công ty Vincons - đồng PD với CBLĐ có thẩm quyền của P&L điều chuyển/ nhận điều chuyển",
             "PTGĐ Khối QLXD đồng PD với CBLĐ có thẩm quyền của P&L điều chuyển/ nhận điều chuyển"
         ],
