@@ -100,11 +100,11 @@
         "answer": 4
     },
     {
-        "question": " \nTạm ứng tối đa 80% giá trị quyết toán (nhà thầu đã nộp hồ sơ và phòng thanh quyết toán đã thẩm định vòng 1, đang thẩm định vòng 2 (không áp dụng đại trà, chỉ ưu tiên vào các dịp lễ tết)",
+        "question": " \nTạm ứng tối đa 80% giá trị quyết toán (nhà thầu đã nộp hồ sơ và phòng thanh quyết toán đã thẩm định vòng 1, đang thẩm định vòng 2 (không áp dụng đại trà, chỉ ưu tiên vào các dịp lễ tết) do ai duyệt. ",
         "option": [
             "A. Cán bộ quản lý Ngân sách theo PL1",
             "B. TGĐ Công ty Vinhomes",
-            "C. PTGĐ Khối QLXD Công ty Vinhomes",
+            "C. PTGĐ Khối HTXD Công ty Vinhomes - PD cho Khối SXBT;\nPTGĐ Khối QLXD Công ty Vinhomes - PD còn lại",
             "D. PTGĐ Công ty Vincons"
         ],
         "answer": 3
@@ -134,7 +134,7 @@
         "option": [
             "A. Yêu cầu NT/NCC phát hành thư BL theo quy định",
             "B. Kiểm tra thư BL nhận được đảm bảo tuân thủ đúng theo quy định (tuân thủ đúng mẫu do Tập đoàn ban hành và nội dung phù hợp với phê duyệt của CBLĐ)",
-            "C. Chuyển thư BL cho PKT",
+            "C. Chuyển thư BL cho PTCKT",
             "D. Tất cả các đáp án trên"
         ],
         "answer": 4
@@ -210,7 +210,7 @@
         "answer": 4
     },
     {
-        "question": "Ghi nhận công nợ cần lưu ý",
+        "question": "Theo quy định quản lý công nợ phải trả mã văn bản: VCONS_TCKT09: Ghi nhận công nợ cần lưu ý. ",
         "option": [
             "A. Các khoản chi phí đều nằm trong dự chi đã được CBLĐ phê duyệt. Trường hợp phê duyệt nợ hồ sơ gốc, nợ PR/PO/ Migo cần có xác nhận của CBQLNS và phải hoàn trả trong vòng 1 ngày. ",
             "B. Các khoản chi phí đều nằm trong dự chi đã được CBLĐ phê duyệt. Trường hợp phê duyệt nợ hồ sơ gốc, nợ PR/PO/ Migo cần có xác nhận của CBQLNS và phải hoàn trả trong vòng 3 ngày. ",
@@ -230,14 +230,14 @@
         "answer": 3
     },
     {
-        "question": "Thời hạn thanh toán 1 bộ hồ sơ thi công xây dựng là",
+        "question": "Thời hạn thanh toán tại phòng TCKT với 1 bộ hồ sơ thi công xây dựng là",
         "option": [
             "A. 2 ngày",
-            "B. 2 ngày đối với hồ sơ tạm ứng, thanh toán đợt, 7 ngày đối với hồ sơ quyết toán",
+            "B. 2 ngày đối với thanh toán đợt tổ đội, 4 ngày đối với hồ sơ quyết toán tổ đội, 3 ngày đối với các hồ sơ còn lại. ",
             "C. 2 ngày đối với hồ sơ tổ đội, 3 ngày đối với hồ sơ mua sắm thiết bị, vật tư",
             "D. 2 ngày đối với hồ sơ tạm ứng, thanh toán đợt, 3 ngày đối với hồ sơ mua sắm thiết bị, vật tư, 7 ngày đối với hồ sơ quyết toán. "
         ],
-        "answer": 1
+        "answer": 2
     },
     {
         "question": "Thanh toán các Nhà thầu/Nhà cung cấp: Trong trường hợp khẩn, để đảm bảo thời hạn thanh toán thì chấp thuận việc thực hiện thanh toán qua bản Scan và cần hoàn chứng từ gốc trong vòng:",
@@ -245,7 +245,7 @@
             "A. 01 ngày sau đó ",
             "B. 02 ngày sau đó ",
             "C. 01 ngày sau đó, không áp dụng việc này đối với Hồ sơ quyết toán. ",
-            "02 ngày sau đó, không áp dụng việc này đối với Hồ sơ quyết toán. "
+            "D. 03 ngày sau đó, không áp dụng việc này đối với Hồ sơ quyết toán. "
         ],
         "answer": 4
     },
@@ -283,7 +283,7 @@
         "question": "Các khoản chi thuộc nhóm ký hiệu Đỏ do ai phê duyệt?",
         "option": [
             "A. CTTĐ",
-            "B. PTGĐ Khối QLXD Công ty Vinhomes",
+            "B. PTGĐ Khối HTXD Công ty Vinhomes - PD cho Khối SXBT; PTGĐ Khối QLXD Công ty Vinhomes - PD còn lại. ",
             "C. Phó tổng Giám đốc thường trực",
             "D. Cán bộ quản lý Ngân sách theo PL1 "
         ],
@@ -292,15 +292,15 @@
     {
         "question": "Nghị định mới nhất về giảm thuế GTGT từ 10% xuống 8% được áp dụng trong thời gian nào?",
         "option": [
-            "Từ 01/01/2024 đến 30/6/2024 ",
-            "Từ 01/01/2024 đến 31/03/2024 ",
-            "Từ 01/01/2024 đến 30/09/2024 ",
-            "Từ 01/01/2024 đến 31/12/2024 "
+            "A. Từ 01/01/2024 đến 30/6/2024 ",
+            "B. Từ 01/01/2024 đến 31/03/2024 ",
+            "C. Từ 01/01/2024 đến 30/09/2024 ",
+            "D. Từ 01/07/2024 đến 31/12/2024 "
         ],
-        "answer": 1
+        "answer": 4
     },
     {
-        "question": "Theo quy định VCONS_XD07_Quản lý vật tư máy móc thiết bị mã phát hành ngày 18/07/2023, đối với Nguyên vật liệu chính ( Thép, gạch, cát, xi măng, vữa khô…); BCH/KTC thực hiện Migo số liệu nhập, xuất kho trên hệ thống căn cứ theo PO mà P.VTTB gửi theo thời hạn tối đa nào?",
+        "question": "Theo quy định VCONS_XD07_Quản lý vật tư máy móc thiết bị mã phát hành ngày 26/07/2024, đối với Nguyên vật liệu chính ( Thép, gạch, cát, xi măng, vữa khô…); BCH/KTC thực hiện Migo số liệu nhập, xuất kho trên hệ thống căn cứ theo PO mà P.VTTB gửi theo thời hạn tối đa nào?",
         "option": [
             "Tuần + 3",
             "Tuần + 5",
@@ -370,19 +370,19 @@
         "answer": 3
     },
     {
-        "question": "Mức XLVP lỗi nhóm 2 đối với cán bộ nhân viên cấp T4, T5, T6",
+        "question": "Mức XLVP lỗi nhóm 1 đối với cán bộ nhân viên cấp T4, T5, T6",
         "option": [
             "A. Trừ 100% thưởng YTCLCV của 3 tháng",
-            "B. Trừ 10% thưởng YTCLCV của 01 tháng",
+            "B. Sa thải hoặc chấm dứt HĐLĐ",
             "C. Trừ từ 30% đến 100% thưởng YTCLCV của 01 tháng",
-            "D. Cả 3 đáp án"
+            "D. Sa thải hoặc chấm dứt HĐLĐ, hạ lương, trường hợp vi phạm pháp luật hình sự chuyển cơ quan Công an khởi tố theo quy định. "
         ],
         "answer": 4
     },
     {
         "question": "Mức XLVP lỗi nhóm 1 đối với cán bộ nhân viên cấp T7, T8 ",
         "option": [
-            "Sa thải hoặc chấm dứt HĐLĐ, hạ\nlương, trường hợp vi phạm pháp luật hình sự chuyển cơ quan Công an khởi tố theo quy định. ",
+            "Sa thải hoặc chấm dứt HĐLĐ, hạ lương, trường hợp vi phạm pháp luật hình sự chuyển cơ quan Công an khởi tố theo quy định. ",
             "Trừ 100% thưởng YTCLCV của 3 tháng",
             "Sa thải hoặc chấm dứt HĐLĐ",
             "Trừ 100% thưởng YTCLCV của 3 tháng"
@@ -492,10 +492,10 @@
     {
         "question": "Ai là người có thẩm quyền phê duyệt điều chuyển giữa các P&Ls đối với cấp T7 trong phạm vi phụ trách",
         "option": [
-            "CBQL ngân sách",
-            "Các PTGĐ đồng PD với CBLĐ có thẩm quyền của P&L điều chuyển/ nhận điều chuyển đối với cấp T7 trở xuống trong phạm vi phụ trách; CBQLNS Khối SXBT đồng PD với CBLĐ có thẩm quyền của P&L điều chuyển/ nhận điều chuyển đối với cấp T7 trở xuống thuộc Khối SXBT;\nTGĐ Vincons Windows - đồng PD với CBLĐ có thẩm quyền của P&L điều chuyển/ nhận điều chuyển đối với cấp T7 trở xuống cho Công ty Vincons Windows. ",
-            "PTGĐ Công ty Vincons - đồng PD với CBLĐ có thẩm quyền của P&L điều chuyển/ nhận điều chuyển",
-            "PTGĐ Khối QLXD đồng PD với CBLĐ có thẩm quyền của P&L điều chuyển/ nhận điều chuyển"
+            "A. CBQL ngân sách",
+            "B. Các PTGĐ đồng PD với CBLĐ có thẩm quyền của P&L điều chuyển/ nhận điều chuyển đối với cấp T7 trở xuống trong phạm vi phụ trách; CBQLNS Khối SXBT đồng PD với CBLĐ có thẩm quyền của P&L điều chuyển/ nhận điều chuyển đối với cấp T7 trở xuống thuộc Khối SXBT;\nTGĐ Vincons Windows - đồng PD với CBLĐ có thẩm quyền của P&L điều chuyển/ nhận điều chuyển đối với cấp T7 trở xuống cho Công ty Vincons Windows. ",
+            "C. PTGĐ Công ty Vincons - đồng PD với CBLĐ có thẩm quyền của P&L điều chuyển/ nhận điều chuyển",
+            "D. PTGĐ Khối QLXD đồng PD với CBLĐ có thẩm quyền của P&L điều chuyển/ nhận điều chuyển"
         ],
         "answer": 2
     }
