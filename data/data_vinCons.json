@@ -65,7 +65,7 @@
             "Tâm",
             "Trí",
             "Tốc",
-            NaN
+            "none"
         ],
         "answer": 3
     },
@@ -635,7 +635,7 @@
             "Tập đoàn và các PnL",
             "Các P&L",
             "Tập đoàn",
-            NaN
+            "none"
         ],
         "answer": 1
     },
@@ -645,7 +645,7 @@
             "Thiện nguyện xã hội",
             "Công nghiệp - công nghệ",
             "Thương mại và dịch vụ",
-            NaN
+            "none"
         ],
         "answer": 3
     },
@@ -665,7 +665,7 @@
             "Làm việc có tư duy tổng thể, có quy hoạch, luôn lập kế hoạch, \nsáng tạo, linh hoạt và tìm kiếm mọi giải pháp để hoàn thành tốt \nmọi nhiệm vụ được giao. Dám dấn thân, dám thay đổi, điều chỉnh \nbản thân và công việc trên tinh thần “dĩ bất biến ứng vạn biến”.",
             "Mỗi người Vingroup là một đại sứ của Vingroup về văn hóa, về ứng xử văn minh và thượng tôn kỷ luật, hơn thế nữa người Vingroup còn phải là một đại diện tinh hoa cho Văn hóa Việt Nam trên trường quốc tế với bản sắc Việt cùng tư duy toàn cầu",
             "Thẳng thắn đối diện với các \nkhiếm khuyết, sai lầm, thất bại \ncủa bản thân để rèn luyện, phấn \nđấu vươn lên.",
-            NaN
+            "none"
         ],
         "answer": 1
     },
@@ -705,7 +705,7 @@
             "tiên phong",
             "dẫn đầu",
             "ứng dụng",
-            NaN
+            "none"
         ],
         "answer": 1
     },
@@ -1095,7 +1095,7 @@
             "là quá trình tập hợp, sắp xếp và tổ chức các thành phần, quy trình, dữ liệu và nguồn lực thành một cấu trúc thống nhất, có trật tự và có tính logic nhằm đảm bảo tính nhất quán, sự tương thích và khả năng hoạt động hiệu quả của hệ thống. ",
             "là quá trình phát hiện và phát triển nhân tài là CBLĐ các cấp và các nhân sự chất lượng cao, có khả năng dẫn dắt đội ngũ, góp phần quan trọng vào thành công và sự phát triển bền vững của tổ chức.",
             "là quá trình thiết lập và thực hiện các tiêu chuẩn, quy tắc, quy định và quy trình nhằm đảm bảo sự nhất quán, đồng đều và chất lượng cao trong hoạt động của tổ chức.",
-            NaN
+            "none"
         ],
         "answer": 1
     },
