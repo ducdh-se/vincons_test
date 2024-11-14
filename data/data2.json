@@ -135,7 +135,7 @@
             "Tập đoàn và các PnL",
             "Các P&L",
             "Tập đoàn",
-            NaN
+            "none"
         ],
         "answer": 1
     },
@@ -145,7 +145,7 @@
             "Thiện nguyện xã hội",
             "Công nghiệp - công nghệ",
             "Thương mại và dịch vụ",
-            NaN
+            "none"
         ],
         "answer": 3
     },
@@ -165,7 +165,7 @@
             "Làm việc có tư duy tổng thể, có quy hoạch, luôn lập kế hoạch, \nsáng tạo, linh hoạt và tìm kiếm mọi giải pháp để hoàn thành tốt \nmọi nhiệm vụ được giao. Dám dấn thân, dám thay đổi, điều chỉnh \nbản thân và công việc trên tinh thần “dĩ bất biến ứng vạn biến”.",
             "Mỗi người Vingroup là một đại sứ của Vingroup về văn hóa, về ứng xử văn minh và thượng tôn kỷ luật, hơn thế nữa người Vingroup còn phải là một đại diện tinh hoa cho Văn hóa Việt Nam trên trường quốc tế với bản sắc Việt cùng tư duy toàn cầu",
             "Thẳng thắn đối diện với các \nkhiếm khuyết, sai lầm, thất bại \ncủa bản thân để rèn luyện, phấn \nđấu vươn lên.",
-            NaN
+            "none"
         ],
         "answer": 1
     },
@@ -205,7 +205,7 @@
             "tiên phong",
             "dẫn đầu",
             "ứng dụng",
-            NaN
+            "none"
         ],
         "answer": 1
     },
