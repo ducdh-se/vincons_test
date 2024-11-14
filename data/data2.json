@@ -1,16 +1,16 @@
 [
     {
-        "question": "Slogan \"Vingroup - Mãi mãi tinh thần khởi nghiệp\" chính thức được sử dụng từ thời điểm nào?",
+        "question": "Slogan \"Vingroup ; Mãi mãi tinh thần khởi nghiệp\" chính thức được sử dụng từ thời điểm nào?",
         "option": [
             "Ngày 06/10/2015",
-            "\tNgày 06/10/2016",
+            "Ngày 06/10/2016",
             "Ngày 06/10/2017",
             "Ngày 06/10/2018"
         ],
         "answer": 1
     },
     {
-        "question": "Hướng đi riêng và khao khát chung tay tạo nên những kỳ tích để đóng góp cho sự phát triển của dân tộc. Môi trường làm việc của Vingroup là áp lực, hiệu quả; Văn hóa của Vingroup là đề cao tinh thần yêu nước và tự tôn dân tộc, thượng tôn kỷ luật, coi trọng công bằng - văn minh; đòi hỏi Người Vingroup phải luôn nỗ lực để nâng tầm và trở thành tấm gương truyền cảm hứng, lan tỏa giá trị tốt đẹp tới cộng đồng - xã hội bằng các hành động thiết thực. Đây là nội dung thuộc?",
+        "question": "Hướng đi riêng và khao khát chung tay tạo nên những kỳ tích để đóng góp cho sự phát triển của dân tộc. Môi trường làm việc của Vingroup là áp lực, hiệu quả; Văn hóa của Vingroup là đề cao tinh thần yêu nước và tự tôn dân tộc, thượng tôn kỷ luật, coi trọng công bằng ; văn minh; đòi hỏi Người Vingroup phải luôn nỗ lực để nâng tầm và trở thành tấm gương truyền cảm hứng, lan tỏa giá trị tốt đẹp tới cộng đồng ; xã hội bằng các hành động thiết thực. Đây là nội dung thuộc?",
         "option": [
             "Tuyên ngôn Văn hoá người Vingroup",
             "Tầm nhìn của Vingroup",
@@ -33,8 +33,8 @@
         "question": "Tuyên ngôn Văn hoá người Vingroup là gì?",
         "option": [
             "Tạo nên những sản phẩm, dịch vụ có chất lượng tối ưu, mang lại sự hài lòng cho khách hàng ở mức độ cao nhất.",
-            "Vingroup luôn coi nguồn nhân lực là yếu tố cốt lõi và là tài sản quý giá. Với khẩu hiệu: “Vingroup - Mãi mãi tinh thần khởi nghiệp”, Tập đoàn đã xây dựng một đội ngũ nhân sự tinh gọn, có đủ cả Đức và Tài.",
-            "Vingroup là nơi hội tụ cùng phát triển của những con người có lý tưởng, có năng lực, có bản lĩnh, luôn chủ động tìm hướng đi riêng và khao khát chung tay tạo nên những kỳ tích để đóng góp cho sự phát triển của dân tộc. Môi trường làm việc của Vingroup là áp lực, hiệu quả; Văn hóa của Vingroup là đề cao tinh thần yêu nước và tự tôn dân tộc, thượng tôn kỷ luật, coi trọng công bằng - văn minh; đòi hỏi Người Vingroup phải luôn nỗ lực để nâng tầm và trở thành tấm gương truyền cảm hứng, lan tỏa giá trị tốt đẹp tới cộng đồng - xã hội bằng các hành động thiết thực.",
+            "Vingroup luôn coi nguồn nhân lực là yếu tố cốt lõi và là tài sản quý giá. Với khẩu hiệu: “Vingroup ; Mãi mãi tinh thần khởi nghiệp”, Tập đoàn đã xây dựng một đội ngũ nhân sự tinh gọn, có đủ cả Đức và Tài.",
+            "Vingroup là nơi hội tụ cùng phát triển của những con người có lý tưởng, có năng lực, có bản lĩnh, luôn chủ động tìm hướng đi riêng và khao khát chung tay tạo nên những kỳ tích để đóng góp cho sự phát triển của dân tộc. Môi trường làm việc của Vingroup là áp lực, hiệu quả; Văn hóa của Vingroup là đề cao tinh thần yêu nước và tự tôn dân tộc, thượng tôn kỷ luật, coi trọng công bằng ; văn minh; đòi hỏi Người Vingroup phải luôn nỗ lực để nâng tầm và trở thành tấm gương truyền cảm hứng, lan tỏa giá trị tốt đẹp tới cộng đồng ; xã hội bằng các hành động thiết thực.",
             "Với mục tiêu phát triển bền vững, Vingroup hiểu rõ tầm quan trọng của việc bảo vệ môi trường trong quá trình thiết kế, xây dựng và khai thác các tổ hợp du lịch, TTTM, khu đô thị, văn phòng và căn hộ."
         ],
         "answer": 3
@@ -72,7 +72,7 @@
     {
         "question": "Đâu là một trong những tôn chỉ của VinCons là gì?",
         "option": [
-            "Tiến lên - tiến lên - tiến lên chuyên nghiệp",
+            "Tiến lên ; tiến lên ; tiến lên chuyên nghiệp",
             "Tiến lên chuyên nghiệp là con đường duy nhất VinCons phải đi",
             "Tiến lên chuyên nghiệp là con đường duy nhất VinCons phải đạt được",
             "Tiến lên chuyên nghiệp là con đường duy nhất VinCons phải đến"
@@ -102,10 +102,10 @@
     {
         "question": "Đặc trưng Văn hóa của Người Vingroup là gì?",
         "option": [
-            "Công bằng - Kỷ luật - Văn Minh",
-            "Yêu nước - Kỷ luật - Văn minh",
-            "Công bằng - Minh bạch - Thượng tôn kỷ luật",
-            "Văn minh - Tôn trọng - Hợp tác"
+            "Công bằng ; Kỷ luật ; Văn Minh",
+            "Yêu nước ; Kỷ luật ; Văn minh",
+            "Công bằng ; Minh bạch ; Thượng tôn kỷ luật",
+            "Văn minh ; Tôn trọng ; Hợp tác"
         ],
         "answer": 1
     },
@@ -143,7 +143,7 @@
         "question": "VinCons thuộc lĩnh vực nào trong hệ sinh thái của Vingroup?",
         "option": [
             "Thiện nguyện xã hội",
-            "Công nghiệp - công nghệ",
+            "Công nghiệp ; công nghệ",
             "Thương mại và dịch vụ",
             "none"
         ],
@@ -210,7 +210,7 @@
         "answer": 1
     },
     {
-        "question": "\"Làm việc có tư duy tổng thể, có quy hoạch, luôn lập kế hoạch, \nsáng tạo, linh hoạt và tìm kiếm mọi giải pháp để hoàn thành tốt \nmọi nhiệm vụ được giao. Dám dấn thân, dám thay đổi, điều chỉnh \nbản thân và công việc trên tinh thần “dĩ bất biến ứng vạn biến” - là  1 trong những tuyên ngôn văn hóa đối với hạng mục nào?",
+        "question": "\"Làm việc có tư duy tổng thể, có quy hoạch, luôn lập kế hoạch, \nsáng tạo, linh hoạt và tìm kiếm mọi giải pháp để hoàn thành tốt \nmọi nhiệm vụ được giao. Dám dấn thân, dám thay đổi, điều chỉnh \nbản thân và công việc trên tinh thần “dĩ bất biến ứng vạn biến” ; là  1 trong những tuyên ngôn văn hóa đối với hạng mục nào?",
         "option": [
             "công việc",
             "bản thân & đồng nghiệp",
