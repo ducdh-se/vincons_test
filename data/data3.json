@@ -12,10 +12,10 @@
     {
         "question": "Nguyên tắc 5 Hóa là nội dung cốt lõi của cuộc cách mạng quản trị nhằm cải tổ toàn diện hệ thống vận hành Vingroup do Chủ tịch Tập đoàn Phạm Nhật Vượng khởi xướng. Sau khi được triển khai, 5 Hóa trở thành là kim chỉ nam cho mọi tư duy, quy hoạch và hành động của Người Vingroup, hướng tới mục tiêu đưa Tập đoàn vượt qua giới hạn “Tốt” hiện tại để trở thành một Tập đoàn “Vĩ đại” trong tương lai.Vậy 5 Hoá bao gồm những nội dung nào?",
         "option": [
-            "Hạt nhân hóa ; Chuẩn hóa ; Đơn giản hóa ; Tự động hóa ; Đa dạng hoá",
-            "Hạt nhân hóa ; Chuẩn hóa ; Đơn giản hóa ; Tự động hóa ; Hiệu quả hoá",
-            "Hạt nhân hóa ; Chuẩn hóa ; Đơn giản hóa ; Tự động hóa ; Phân chia hoá",
-            "Hạt nhân hóa ; Chuẩn hóa ; Đơn giản hóa ; Tự động hóa ; Mũi nhọn hoá"
+            "Hạt nhân hóa – Chuẩn hóa – Đơn giản hóa – Tự động hóa – Đa dạng hoá",
+            "Hạt nhân hóa – Chuẩn hóa – Đơn giản hóa – Tự động hóa – Hiệu quả hoá",
+            "Hạt nhân hóa – Chuẩn hóa – Đơn giản hóa – Tự động hóa – Phân chia hoá",
+            "Hạt nhân hóa – Chuẩn hóa – Đơn giản hóa – Tự động hóa – Mũi nhọn hoá"
         ],
         "answer": 2
     },
@@ -80,7 +80,7 @@
         "answer": 4
     },
     {
-        "question": "ất cả mọi việc đều phải được chuẩn hóa trên quy mô toàn Tập đoàn, từ những việc đơn giản như mua sắm văn phòng phẩm, các phụ kiện trong công trình xây dựng, cho tới những yếu tố cốt lõi của hệ thống. Nội dung trên nói về nguyên tắc quản trị nào?",
+        "question": "Tất cả mọi việc đều phải được chuẩn hóa trên quy mô toàn Tập đoàn, từ những việc đơn giản như mua sắm văn phòng phẩm, các phụ kiện trong công trình xây dựng, cho tới những yếu tố cốt lõi của hệ thống. Nội dung trên nói về nguyên tắc quản trị nào?",
         "option": [
             "Tự động hoá",
             "Hiệu quả hoá",
@@ -212,8 +212,8 @@
     {
         "question": "Mục tiêu của việc áp dụng \"Hiệu quả hóa\" ?",
         "option": [
-            "Tối ưu doanh thu ; chi phí",
-            "Tối ưu chất lượng ; hiệu quả công việc",
+            "Tối ưu doanh thu – chi phí ",
+            "Tối ưu chất lượng – hiệu quả công việc",
             "Tối ưu hóa giá trị doanh nghiệp",
             "Cả 3 phương án trên"
         ],
