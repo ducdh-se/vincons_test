@@ -1,0 +1,502 @@
+[
+    {
+        "question": "Sáu giá trị cốt lõi của Vingroup gồm những yếu tố nào sau đây?",
+        "option": [
+            "Tín, Tâm, Trí, Tốc, Tinh, Nhân",
+            "Tín, Đoàn kết, Tốc, Tinh, Chuyên nghiệp",
+            "Tín, Tâm, Sáng tạo, Đổi mới, Kỷ luật",
+            "Tín, Tâm, Tài năng, Tốc, Trung thành"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Giá trị \"Tín\" trong văn hóa Vingroup được hiểu như thế nào?",
+        "option": [
+            "Luôn đổi mới và sáng tạo",
+            "Giữ vững uy tín và thực hiện đúng các cam kết",
+            "Tập trung vào năng suất lao động",
+            "Tạo môi trường làm việc vui vẻ"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Nội dung thể hiện Giá trị cốt lõi - NHÂN của người Vingroup?",
+        "option": [
+            "Vingroup coi sáng tạo là sức sống, là đòn bẩy phát triển, đề cao tinh thần dám nghĩ, dám làm, chủ trương xây dựng một “Doanh nghiệp học tập”.",
+            "Vingroup đặt tôn chỉ \"Tốc độ, hiệu quả trong từng hành động”, thực hành “Quyết định nhanh – Đầu tư nhanh – Triển khai nhanh – Bán hàng nhanh – Thay đổi và thích ứng nhanh”",
+            "Vingroup xây dựng các mối quan hệ với tinh thần nhân văn, coi trọng người lao động như là tài sản quý giá nhất, tạo dựng “Nhân hòa” trên cơ sở công bằng, chính trực và nêu cao sức mạnh đoàn kết.",
+            "Vingroup là nơi hội tụ cùng phát triển của những con người có lý tưởng, có năng lực, có bản lĩnh, luôn chủ động tìm hướng đi riêng và khao khát chung tay tạo nên những kỳ tích để đóng góp cho sự phát triển của dân tộc."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Vingroup xây dựng các mối quan hệ với tinh thần nhân văn, coi trọng người lao động như là tài sản quý giá nhất, tạo dựng “Nhân hòa” trên cơ sở công bằng, chính trực và nêu cao sức mạnh đoàn kết. Nội dung trên nói về Giá trị cốt lõi nào của Vingroup?",
+        "option": [
+            "Tốc",
+            "Tinh",
+            "Nhân",
+            "Trí"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Nội dung nào sau đây thể hiện Giá trị cốt lõi - Tốc của người Vingroup?",
+        "option": [
+            "Vingroup đặt mục tiêu “Con người tinh hoa – Sản phẩm và Dịch vụ tinh hoa – Cuộc sống tinh hoa – Xã hội tinh hoa”.",
+            "Vingroup xây dựng các mối quan hệ với tinh thần nhân văn, coi trọng người lao động như là tài sản quý giá nhất, tạo dựng “Nhân hòa” trên cơ sở công bằng, chính trực và nêu cao sức mạnh đoàn kết.",
+            "Vingroup đặt tôn chỉ \"Tốc độ, hiệu quả trong từng hành động”, thực hành “Quyết định nhanh – Đầu tư nhanh – Triển khai nhanh – Bán hàng nhanh – Thay đổi và thích ứng nhanh”.",
+            "Vingroup coi sáng tạo là sức sống, là đòn bẩy phát triển, đề cao tinh thần dám nghĩ, dám làm, chủ trương xây dựng một “Doanh nghiệp học tập”."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Nội dung nào sau đây thể hiện Giá trị cốt lõi - TÂM của người Vingroup?",
+        "option": [
+            "Luôn chuẩn bị đầy đủ năng lực thực thi và nỗ lực hết mình để đảm bảo đúng cam kết",
+            "Đội ngũ Lãnh đạo có năng lực, nhiệt huyết, dấn thân",
+            "Công bằng, minh bạch, thượng tôn kỷ luật",
+            "Luôn thượng tôn pháp luật, duy trì đạo đức, lấy khách hàng làm trung tâm"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Vingroup đặt tôn chỉ “Tốc độ, hiệu quả trong từng hành động”, thực hành “Quyết định nhanh – Đầu tư nhanh – Triển khai nhanh – Bán hàng nhanh – Thay đổi và thích ứng nhanh”. Nội dung trên nói về Giá trị cốt lõi nào của Vingroup?",
+        "option": [
+            "Tâm",
+            "Trí",
+            "Tốc",
+            "none"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Luôn thượng tôn pháp luật, duy trì đạo đức, lấy khách hàng làm trung tâm. Nội dung trên nói về Giá trị cốt lõi nào của Vingroup",
+        "option": [
+            "Tín",
+            "Tốc",
+            "Trí ",
+            "Tâm"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Nội dung nào sau đây thể hiện Giá trị cốt lõi - TRÍ của người Vingroup",
+        "option": [
+            "Vingroup đặt tôn chỉ “Tốc độ, hiệu quả trong từng hành động”, thực hành “Quyết định nhanh – Đầu tư nhanh – Triển khai nhanh – Bán hàng nhanh – Thay đổi và thích ứng nhanh”.",
+            "Vingroup coi sáng tạo là sức sống, là đòn bẩy phát triển, đề cao tinh thần dám nghĩ, dám làm, chủ trương xây dựng một “Doanh nghiệp học tập”.",
+            "Vingroup đặt mục tiêu “Con người tinh hoa – Sản phẩm và Dịch vụ tinh hoa – Cuộc sống tinh hoa – Xã hội tinh hoa”.",
+            "Luôn thượng tôn pháp luật, duy trì đạo đức, lấy khách hàng làm trung tâm"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Nội dung \"Luôn chuẩn bị đầy đủ năng lực thực thi và nỗ lực hết mình để đảm bảo đúng cam kết\" nói về Giá trị cốt lõi nào của Vingroup?",
+        "option": [
+            "Tốc",
+            "Tâm ",
+            "Trí ",
+            "Tín"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Vingroup có bao nhiêu giá trị cốt lõi?",
+        "option": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Một trong các giá trị cốt lõi của Vingroup là gì?",
+        "option": [
+            "Tinh",
+            "Tuệ",
+            "Nhẫn",
+            "Đức"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Giá trị cốt lõi nào yêu cầu người Vingroup phải hành động sáng tạo và trách nhiệm?",
+        "option": [
+            "Trí",
+            "Tâm",
+            "Nhân",
+            "Tốc"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Phong cách quản trị “6 hóa” của Vingroup nhằm mục đích gì?",
+        "option": [
+            "Giữ quy trình phức tạp",
+            "Tối ưu hóa chi phí",
+            "Tạo ra bộ máy vận hành hiệu quả",
+            "Tăng trưởng nhanh chóng"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Tinh thần dám nghĩ dám làm của người Vingroup gắn liền với giá trị nào?",
+        "option": [
+            "Tín",
+            "Trí",
+            "Nhân",
+            "Tốc"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cụm từ “vượt lên chính mình” được nhắc đến trong giá trị cốt lõi nào?",
+        "option": [
+            "Tâm",
+            "Trí",
+            "Tốc",
+            "Tinh"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Giá trị nào yêu cầu \"lời nói đi đôi với việc làm\"?",
+        "option": [
+            "Tâm",
+            "Tín",
+            "Nhân",
+            "Tốc"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Giá trị “Tâm” yêu cầu gì từ người Vingroup?",
+        "option": [
+            "Duy trì đạo đức nghề nghiệp",
+            "Sự sáng tạo không ngừng",
+            "Tinh thần đồng đội",
+            "Khả năng thuyết phục"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Giá trị “Trí” nhấn mạnh điều gì?",
+        "option": [
+            "Thực hiện công việc nhanh chóng",
+            "Tăng cường sự gắn kết",
+            "Tôn trọng khách hàng",
+            "Tư duy phản biện và sáng tạo"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Giá trị nào yêu cầu người Vingroup phải đảm bảo chất lượng và hiệu quả song song với tốc độ?",
+        "option": [
+            "Nhân",
+            "Tâm",
+            "Tốc",
+            "Tín"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Tinh thần “khởi xướng và dẫn dắt thay đổi” thể hiện giá trị nào?",
+        "option": [
+            "Tâm",
+            "Trí",
+            "Tinh",
+            "Tốc"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Giá trị “Nhân” không chỉ là lòng tốt mà còn bao gồm điều gì?",
+        "option": [
+            "Sự kiên nhẫn",
+            "Thích nghi nhanh chóng",
+            "Chú trọng chi tiết",
+            "Sự thẳng thắn và minh bạch"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Giá trị nào của Vingroup yêu cầu không thoả hiệp với chất lượng kém?",
+        "option": [
+            "Tốc",
+            "Nhân",
+            "Trí",
+            "Tâm"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Vì sao việc giữ chữ “Tín” lại quan trọng trong văn hóa Vingroup?",
+        "option": [
+            "Để tăng doanh thu",
+            "Để duy trì uy tín cá nhân và Tập đoàn",
+            "Để mở rộng thị trường",
+            "Để cải thiện dịch vụ"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Trong giá trị “Tín”, điều nào sau đây không được chấp nhận?",
+        "option": [
+            "Cam kết vượt quá khả năng",
+            "Thực hiện đúng cam kết",
+            "Đảm bảo uy tín thương hiệu",
+            "Đổ lỗi khi không thực hiện được cam kết"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Giá trị “Tín” nhấn mạnh điều gì?",
+        "option": [
+            "Đổi mới sáng tạo",
+            "Sự tận tâm với khách hàng",
+            "Lời nói đi đôi với việc làm",
+            "Tốc độ thực hiện công việc"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Giá trị “Tâm” yêu cầu người Vingroup phải duy trì điều gì?",
+        "option": [
+            "Đạo đức nghề nghiệp và xã hội",
+            "Sự thăng tiến cá nhân",
+            "Lợi nhuận công ty",
+            "Sự hài lòng của khách hàng"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Điều gì không phù hợp với giá trị “Tâm”?",
+        "option": [
+            "Thượng tôn kỷ luật",
+            "Lấy lợi nhuận làm mục tiêu chính",
+            "Chinh phục đỉnh cao mới",
+            "Hướng thiện và duy trì đạo đức"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Giá trị “Trí” đề cao điều gì trong công việc?",
+        "option": [
+            "Thực hiện công việc nhanh chóng",
+            "Thực hiện lặp lại công việc cũ",
+            "Tuân thủ tuyệt đối các quy trình hiện có",
+            "Tư duy phản biện và sáng tạo"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Trong giá trị “Trí”, người Vingroup được yêu cầu phải:",
+        "option": [
+            "Chỉ làm theo quy trình",
+            "Không đặt câu hỏi",
+            "Lật xuôi lật ngược vấn đề để tìm giải pháp tối ưu",
+            "Tránh đối mặt với khó khăn"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Giá trị “Tốc” nhấn mạnh yếu tố nào?",
+        "option": [
+            "Sự chính xác tuyệt đối",
+            "Khẩn trương và đảm bảo chất lượng",
+            "Chỉ tập trung vào tốc độ mà không quan tâm đến kết quả",
+            "Làm việc chậm rãi nhưng chắc chắn"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Tại sao tốc độ lại quan trọng trong giá trị “Tốc” của Vingroup?",
+        "option": [
+            "Để đạt hiệu quả cao và hoàn thành mục tiêu đúng thời hạn",
+            "Để tránh công việc tồn đọng",
+            "Để cạnh tranh với các công ty khác",
+            "Để giảm áp lực công việc"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Giá trị “Tinh” yêu cầu điều gì trong công việc?",
+        "option": [
+            "Tinh gọn và chú trọng chất lượng",
+            "Sử dụng nhiều nhân sự cho mỗi dự án",
+            "Đơn giản hóa các quy trình mà không xem xét hiệu quả",
+            "Tập trung vào số lượng hơn chất lượng"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Trong giá trị “Tinh”, người Vingroup cần làm gì để cải thiện mỗi ngày?",
+        "option": [
+            "Làm việc với số lượng lớn",
+            "Nỗ lực trở nên xuất sắc hơn và chú trọng sự chỉn chu",
+            "Tăng cường cạnh tranh nội bộ",
+            "Giảm sự hợp tác trong đội nhóm"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Giá trị “Nhân” không chỉ là lòng tốt, mà còn yêu cầu gì?",
+        "option": [
+            "Sự tử tế, thẳng thắn và minh bạch",
+            "Chỉ tập trung vào kết quả cá nhân",
+            "Luôn giữ im lặng khi phát hiện sai sót",
+            "Đạt được mục tiêu bằng mọi cách"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Điều gì là đặc điểm nổi bật của giá trị “Nhân” trong Vingroup?",
+        "option": [
+            "Đạt được lợi ích cá nhân",
+            "Tập trung vào quyền lực",
+            "Tránh đối đầu",
+            "Đấu tranh với những cái xấu và giữ vững chất lượng cao"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Giá trị “Tín” đòi hỏi người Vingroup phải làm gì để giữ vững uy tín của mình?",
+        "option": [
+            "Làm việc chăm chỉ không cần cam kết",
+            "Trì hoãn cam kết khi cần thiết",
+            "Thực hiện đúng và thậm chí vượt hơn các cam kết",
+            "Chỉ hứa khi có lợi"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Hành động nào phù hợp với giá trị “Tín”?",
+        "option": [
+            "Trì hoãn khi gặp khó khăn",
+            "Nỗ lực thực hiện đúng lời hứa bất kể khó khăn",
+            "Tìm cách đổ lỗi cho hoàn cảnh",
+            "Đưa ra lời hứa không thực tế"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Giá trị “Tâm” thúc đẩy người Vingroup phải làm gì trong mọi hành động?",
+        "option": [
+            "Duy trì đạo đức nghề nghiệp cao nhất",
+            "Đạt được lợi ích cá nhân",
+            "Làm việc nhanh mà không cần quan tâm đến hậu quả",
+            "Tạo ấn tượng mạnh với cấp trên"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Giá trị “Tâm” gắn liền với mục tiêu nào?",
+        "option": [
+            "Tạo ra lợi nhuận tối đa",
+            "Hoàn thành công việc nhanh chóng",
+            "Mang lại cuộc sống tốt đẹp hơn cho mọi người",
+            "Cạnh tranh khốc liệt trong công ty"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Giá trị “Trí” khuyến khích người Vingroup làm gì khi gặp vấn đề khó khăn?",
+        "option": [
+            "Đợi người khác giải quyết",
+            "Làm theo cách cũ để tránh rủi ro",
+            "Lập tức bỏ qua vấn đề",
+            "Tìm kiếm giải pháp sáng tạo và bền vững"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Tư duy nào không nằm trong giá trị “Trí” của Vingroup?",
+        "option": [
+            "Tư duy đa chiều",
+            "Chấp nhận giải pháp nửa vời",
+            "Lật xuôi lật ngược vấn đề",
+            "Truy tận gốc vấn đề"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Giá trị “Tốc” yêu cầu điều gì trong việc xử lý công việc?",
+        "option": [
+            "Khẩn trương nhưng vẫn đảm bảo chất lượng",
+            "Làm việc nhanh nhưng bỏ qua sai sót nhỏ",
+            "Đẩy nhanh tiến độ mà không cần kiểm tra",
+            "Chỉ hoàn thành công việc khi có thời gian"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Trong giá trị “Tốc”, điều gì không phù hợp?",
+        "option": [
+            "Làm việc nhanh chóng",
+            "Đảm bảo hiệu quả công việc",
+            "Làm việc cẩu thả để đạt tốc độ",
+            "Kiểm soát chặt chẽ tiến độ công việc"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Giá trị “Tinh” yêu cầu người Vingroup làm gì đối với công việc hàng ngày?",
+        "option": [
+            "Làm việc theo cách đơn giản nhất có thể",
+            "Tập trung vào số lượng hơn chất lượng",
+            "Tăng thêm nhân sự để hoàn thành nhanh chóng",
+            "Tinh gọn và chỉn chu trong từng chi tiết"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Yếu tố nào sau đây không nằm trong giá trị “Tinh”?",
+        "option": [
+            "Sự chỉn chu",
+            "Làm việc với quy mô lớn nhưng không chú ý chi tiết",
+            "Chất lượng cao",
+            "Tinh tế trong từng sản phẩm"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Giá trị “Nhân” khuyến khích người Vingroup làm gì khi đối mặt với vấn đề đạo đức?",
+        "option": [
+            "Dám đấu tranh với cái xấu để đạt kết quả tốt hơn",
+            "Tránh né vấn đề để an toàn",
+            "Hợp tác với mọi người dù vi phạm nguyên tắc",
+            "Chỉ làm theo lệnh cấp trên"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Giá trị “Nhân” không bao gồm điều nào sau đây?",
+        "option": [
+            "Tử tế và minh bạch",
+            "Sự thẳng thắn",
+            "Thỏa hiệp với chất lượng kém",
+            "Coi trọng sự công bằng"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Yếu tố nào sau đây thể hiện tinh thần chung của 6 giá trị cốt lõi?",
+        "option": [
+            "Lợi ích cá nhân",
+            "Đạt được mục tiêu bất kể phương pháp",
+            "Luôn giữ nguyên cách làm cũ",
+            "Xây dựng văn hóa làm việc gắn liền với đạo đức và hiệu quả"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Vì sao việc kết hợp 6 giá trị cốt lõi lại quan trọng cho người Vingroup?",
+        "option": [
+            "Để nổi bật trong công ty",
+            "Để xây dựng môi trường làm việc bền vững và phát triển lâu dài",
+            "Để tăng doanh thu nhanh chóng",
+            "Để giảm áp lực công việc"
+        ],
+        "answer": 2
+    }
+]

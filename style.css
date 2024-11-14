@@ -102,3 +102,123 @@ button:disabled {
     border-color: #bdc3c7;
     cursor: not-allowed;
 }
+
+/* Center the data selection section */
+#data-selection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 97vh; /* Full viewport height to center vertically */
+    text-align: center;
+    background-color: #f4f4f9; /* Light background color */
+}
+
+#data-selection h2 {
+    font-size: 2em;
+    color: #333; /* Darker color for the heading */
+    margin-bottom: 20px;
+}
+
+#data-selection button {
+    padding: 10px 20px;
+    font-size: 1em;
+    margin: 10px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+/* Style for Data 1 button */
+#data-selection button {
+    width: 150px;
+    background-color: #4CAF50; /* Green color */
+    color: white;
+}
+
+
+/* Hover effect for both buttons */
+#data-selection button:hover {
+    background-color: #333; /* Darker hover color */
+    color: #fff;
+    transform: scale(1.05); /* Slightly enlarge button on hover */
+}
+
+/* Optional: Active state for button press */
+#data-selection button:active {
+    transform: scale(0.98);
+    opacity: 0.9;
+}
+
+/* Center the login screen */
+#login {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 97vh; /* Full viewport height to center vertically */
+    background-color: #f0f2f5; /* Light background color */
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    margin: auto;
+    max-width: 400px;
+}
+
+/* Style the heading */
+#login h2 {
+    font-size: 2em;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* Style the password input field */
+#password-input {
+    width: 100%;
+    padding: 12px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1em;
+    outline: none;
+    transition: border-color 0.3s;
+}
+
+/* Focus effect for the input field */
+#password-input:focus {
+    border-color: #4CAF50; /* Green border on focus */
+}
+
+/* Style the login button */
+#login-btn {
+    padding: 12px 20px;
+    background-color: #4CAF50; /* Green button */
+    color: white;
+    font-size: 1em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+    width: 100%;
+}
+
+/* Hover effect for the login button */
+#login-btn:hover {
+    background-color: #45a049; /* Slightly darker green */
+    transform: translateY(-2px);
+}
+
+/* Active state for button press */
+#login-btn:active {
+    transform: translateY(0);
+    opacity: 0.9;
+}
+
+/* Style for the error message */
+#error-message {
+    margin-top: 10px;
+    color: #e74c3c; /* Red color for error */
+    font-size: 0.9em;
+    display: none; /* Hidden by default */
+}

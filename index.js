@@ -3,33 +3,43 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function pct_point(a, b) {
         let c = (a / b * 100).toFixed(2);
-        return `Total Point: ${a} / ${b} (${c}%)`
+        return `Total Point: ${a} / ${b} (${c}%)`;
     }
 
-    const data = './data/data_vinCons.json';
-
-    fetch(data)
-        .then(res => res.json())
-        .then(data => {
-            jsonData = shuffleArray(data);
-            initializeQuiz();
-        })
-        .catch(error => 
-            console.error('Error loading JSON file:', error)
-        );
-    
     const main = document.querySelector('#main');
-    main.removeAttribute('hidden');
+    const dataSelection = document.querySelector('#data-selection');
+    const data1Button = document.querySelector('#data1-btn');
+    const data2Button = document.querySelector('#data2-btn');
+    const data3Button = document.querySelector('#data3-btn');
+
+    // Function to load JSON data and initialize quiz
+    function loadDataAndStartQuiz(dataFile) {
+        fetch(dataFile)
+            .then(res => res.json())
+            .then(data => {
+                jsonData = shuffleArray(data);
+                dataSelection.style.display = 'none';  // Hide data selection screen
+                main.removeAttribute('hidden');  // Show quiz content
+                initializeQuiz();
+            })
+            .catch(error => 
+                console.error('Error loading JSON file:', error)
+            );
+    }
+
+    // Event listeners for data selection
+    data1Button.addEventListener('click', () => loadDataAndStartQuiz('./data/data1.json'));
+    data2Button.addEventListener('click', () => loadDataAndStartQuiz('./data/data2.json'));
+    data3Button.addEventListener('click', () => loadDataAndStartQuiz('./data/data_ht.json'));
 
     function shuffleArray(array) {
-        // Fisher-Yates shuffle algorithm
         for (let i = array.length - 1; i > 0; i--) {
             const j = Math.floor(Math.random() * (i + 1));
             [array[i], array[j]] = [array[j], array[i]];
         }
         return array;
     }
-    
+
     function initializeQuiz() {
         let currentQuestionIndex = 0;
         let totalPoint = 0;
@@ -82,7 +92,6 @@ document.addEventListener('DOMContentLoaded', () => {
                     totalPoint++;
                 } else {
                     checkedLi.classList.add('wrong');
-                    // Display the correct answer
                     const correctLi = document.querySelector(`li[value='${jsonData[currentQuestionIndex].answer}']`);
                     correctLi.classList.add('right');
                 }
@@ -99,11 +108,9 @@ document.addEventListener('DOMContentLoaded', () => {
             if (currentQuestionIndex < jsonData.length) {
                 updateQuestion();
             } else {
-                let pct_point = (totalPoint / jsonData.length * 100).toFixed(2)
-                let message = `Your point: ${pct_point}%. Do you want reload the page?`
-                confirm(message)
-                    ? location.reload()
-                    : null;
+                let pct_point = (totalPoint / jsonData.length * 100).toFixed(2);
+                let message = `Your point: ${pct_point}%. Do you want to reload the page?`;
+                confirm(message) ? location.reload() : null;
             }
         });
     }

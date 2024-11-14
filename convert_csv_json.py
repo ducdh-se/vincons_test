@@ -18,7 +18,7 @@ df_json = [
         "answer": i[1].answer,
     } for i in df.iterrows()]
 
-with open(r".\data\data_Vincons.json", encoding="utf-8", mode="w") as f:
+with open(r".\data\data.json", encoding="utf-8", mode="w") as f:
     json.dump(df_json, f, ensure_ascii=False, indent=4)
 
 input("Done!")
