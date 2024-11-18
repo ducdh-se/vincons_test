@@ -32,7 +32,7 @@ document.addEventListener('DOMContentLoaded', () => {
     data1Button.addEventListener('click', () => loadDataAndStartQuiz('./data/data1.json'));
     data2Button.addEventListener('click', () => loadDataAndStartQuiz('./data/data2.json'));
     data3Button.addEventListener('click', () => loadDataAndStartQuiz('./data/data3.json'));
-    data3Button.addEventListener('click', () => loadDataAndStartQuiz('./data/data4.json'));
+    data4Button.addEventListener('click', () => loadDataAndStartQuiz('./data/data4.json'));
 
     function shuffleArray(array) {
         for (let i = array.length - 1; i > 0; i--) {
