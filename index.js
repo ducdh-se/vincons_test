@@ -6,12 +6,12 @@ document.addEventListener('DOMContentLoaded', () => {
         return `Total Point: ${a} / ${b} (${c}%)`;
     }
 
-    // const main = document.querySelector('#main');
-    // const dataSelection = document.querySelector('#data-selection');
-    // const data1Button = document.querySelector('#data1-btn');
-    // const data2Button = document.querySelector('#data2-btn');
-    // const data3Button = document.querySelector('#data3-btn');
-    // const data4Button = document.querySelector('#data4-btn');
+    const main = document.querySelector('#main');
+    const dataSelection = document.querySelector('#data-selection');
+    const data1Button = document.querySelector('#data1-btn');
+    const data2Button = document.querySelector('#data2-btn');
+    const data3Button = document.querySelector('#data3-btn');
+    const data4Button = document.querySelector('#data4-btn');
 
     // Function to load JSON data and initialize quiz
     function loadDataAndStartQuiz(dataFile) {
@@ -19,8 +19,8 @@ document.addEventListener('DOMContentLoaded', () => {
             .then(res => res.json())
             .then(data => {
                 jsonData = shuffleArray(data);
-                // dataSelection.style.display = 'none';  // Hide data selection screen
-                // main.removeAttribute('hidden');  // Show quiz content
+                dataSelection.style.display = 'none';  // Hide data selection screen
+                main.removeAttribute('hidden');  // Show quiz content
                 initializeQuiz();
             })
             .catch(error => 
@@ -28,13 +28,11 @@ document.addEventListener('DOMContentLoaded', () => {
             );
     }
 
-    loadDataAndStartQuiz('./data/data.json')
-
-    // // Event listeners for data selection
-    // data1Button.addEventListener('click', () => loadDataAndStartQuiz('./data/data1.json'));
-    // data2Button.addEventListener('click', () => loadDataAndStartQuiz('./data/data2.json'));
-    // data3Button.addEventListener('click', () => loadDataAndStartQuiz('./data/data3.json'));
-    // data4Button.addEventListener('click', () => loadDataAndStartQuiz('./data/data4.json'));
+    // Event listeners for data selection
+    data1Button.addEventListener('click', () => loadDataAndStartQuiz('./data/data1.json'));
+    data2Button.addEventListener('click', () => loadDataAndStartQuiz('./data/data2.json'));
+    data3Button.addEventListener('click', () => loadDataAndStartQuiz('./data/data3.json'));
+    data4Button.addEventListener('click', () => loadDataAndStartQuiz('./data/data4.json'));
 
     function shuffleArray(array) {
         for (let i = array.length - 1; i > 0; i--) {
