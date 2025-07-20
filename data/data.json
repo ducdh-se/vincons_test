@@ -1,0 +1,702 @@
+[
+    {
+        "question": "Tầm nhìn của Vingroup tập trung vào những trọng tâm nào?",
+        "option": [
+            "Giáo dục, Y tế, Môi trường",
+            "Công nghệ - Công nghiệp, Thương mại Dịch vụ, Thiện nguyện xã hội",
+            "Nông nghiệp, Du lịch, Hàng không",
+            "Tài chính, Bất động sản, Thời trang"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Sứ mệnh của Vingroup là gì?",
+        "option": [
+            "Mang thương hiệu Việt ra thế giới",
+            "Vì một cuộc sống tốt đẹp hơn cho người Việt",
+            "Vì một cuộc sống tốt đẹp hơn cho mọi người",
+            "Vì tương lai xanh"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Giá trị cốt lõi của Vingroup bao gồm bao nhiêu yếu tố?",
+        "option": [
+            "3 yếu tố",
+            "5 yếu tố ",
+            "6 yếu tố",
+            "7 yếu tố"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Văn hóa người Vingroup được thể hiện qua cụm từ nào sau đây?",
+        "option": [
+            "Sáng tạo, Đổi mới, Phát triển",
+            "Công bằng, Kỷ luật, Văn minh",
+            "Cống hiến, Trách nhiệm, Đồng hành",
+            "Tận tâm, Trung thực, Dũng cảm"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Khẩu hiệu (Slogan) của Vingroup là gì?",
+        "option": [
+            "Mãi mãi tinh thần khởi nghiệp",
+            "Tiến lên, Tiến lên, Cùng Tiến lên",
+            "Bứt phá để dẫn đầu",
+            "Mãnh liệt tinh thần Việt Nam"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Tập đoàn ca chỉ được phép sử dụng trong hoàn cảnh nào?",
+        "option": [
+            "Trong các chương trình nội bộ có tính nghi lễ, trang trọng",
+            "Trong các sự kiện quảng bá bên ngoài công ty",
+            "Trong các hoạt động giải trí và văn nghệ tự do",
+            "Trong các buổi sinh hoạt nhóm của nhân viên"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Trang web chính thức để truy cập Cẩm nang thông tin là gì?",
+        "option": [
+            "camnang.vingroup.com",
+            "thongtinvn.vingroup.net",
+            "ttinfo.vingroup.vn",
+            "camnangtt.vingroup.net"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Tiêu chí môi trường làm việc người Vingroup gồm mấy tiêu chí?",
+        "option": [
+            "2 tiêu chí",
+            "3 tiêu chí",
+            "4 tiêu chí ",
+            "5 tiêu chí"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Giá trị cốt lõi của Vingroup bao gồm các yếu tố nào?",
+        "option": [
+            "Tín, Tâm, Trí, Tốc, Tinh, Nhân",
+            "Tín, Tâm, Trí, Tốc, Tinh",
+            "Tín, Tâm, Trí, Tốc, Tinh,Dũng",
+            "Tín, Tâm, Trí, Tốc"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Gia hạn sử dụng phép năm của CBLĐ/CBNV chưa sử dụng hết được gia hạn đến thời gian nào?",
+        "option": [
+            "31/01 của năm tiếp theo",
+            "31/03 của năm tiếp theo",
+            "31/04 của năm tiếp theo",
+            "31/05 của năm tiếp theo"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "CBLĐ/CBNV có nghĩa vụ nào khi sử dụng cẩm nang thông tin",
+        "option": [
+            "Đọc thông báo của công ty/Tập đoàn",
+            "Đưa tài liệu vào lưu trữ, tra cứu tài liệu, thông tin chính thức phục vụ công việc",
+            "Lưu trữ tài liệu, các công việc đang thực hiện dở dang",
+            "Tra cứu tài liệu, thông tin chính thức phục vụ công việc"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Trường hợp nào sau đây yêu cầu báo cáo khẩn lên Lãnh đạo Công ty?",
+        "option": [
+            "Hỏa hoạn, thiên tai nghiêm trọng",
+            "Sự cố mất an toàn lao động nghiêm trọng",
+            "Các hành vi trộm cắp, phá hoại cơ sở vật chất/tài sản, vi phạm pháp luật xảy ra trong các khu vực thuộc Công ty",
+            "Tất cả các đáp án trên"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Bảo hiểm bắt buộc theo quy định của Nhà nước (Bảo hiểm Xã hội, Bảo hiểm Y tế, Bảo hiểm Thất nghiệp, bảo hiểm tai nạn…) được áp dụng như thế nào?",
+        "option": [
+            "Áp dụng đối với CBLĐ/CBNV đã ký HĐLĐ chính thức. Riêng bảo hiểm tai nạn áp dụng cho CBLĐ/CBNV làm việc tại công trường khi làm việc từ đủ 3 ngày.",
+            "Áp dụng đối với CBLĐ/CBNV đã ký HĐ thử việc/tập nghề. Riêng bảo hiểm tai nạn áp dụng cho CBLĐ/CBNV làm việc tại công trường khi làm việc từ đủ 3 ngày.",
+            "Áp dụng đối với CBLĐ/CBNV đã ký HĐ thử việc/tập nghề. Riêng bảo hiểm tai nạn áp dụng cho CBLĐ/CBNV làm việc tại công trường kể từ ngày đầu tiên đi làm.",
+            "Áp dụng đối với CBLĐ/CBNV đã ký HĐLĐ chính thức. Riêng bảo hiểm tai nạn áp dụng cho CBLĐ/CBNV làm việc tại công trường kể từ ngày đầu tiên đi làm."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Chi phí Tiệc mừng kỷ niệm ngày thành lập Tập đoàn/liên hoan cuối năm là bao nhiêu?",
+        "option": [
+            "300.000 đồng/người/dịp",
+            "400.000 đồng/người/dịp",
+            "500.000 đồng/người/dịp",
+            "600.000 đồng/người/dịp"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Công tác dài ngày gồm bao nhiêu ngày",
+        "option": [
+            "Tổng thời gian công tác > 15 ngày liên tục",
+            "Tổng thời gian công tác > 20 ngày liên tục",
+            "Tổng thời gian công tác > 22 ngày liên tục",
+            "Tổng thời gian công tác > 25 ngày liên tục"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Công tác ngắn ngày gồm bao nhiêu ngày",
+        "option": [
+            "Tổng thời gian công tác ≤ 7 ngày liên tục",
+            "Tổng thời gian công tác ≤ 10 ngày liên tục",
+            "Tổng thời gian công tác ≤ 12 ngày liên tục",
+            "Tổng thời gian công tác ≤ 15 ngày liên tục"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Trong quá trình làm việc, nếu có vướng mắc hoặc vấn đề phát sinh có thể gây ảnh hưởng đến công việc CBLĐ/CBNV phải thực hiện báo cáo theo quy định như thế nào?",
+        "option": [
+            "Ngay lập tức báo cáo CBLĐ quản lý trực tiếp để xử lý. Trường hợp sự việc không được giải quyết/ không được giải quyết triệt để, sau 01 tuần CBLĐ/CBNV phải tiếp tục báo cáo lên CBLĐ cấp trên của CBLĐ trực tiếp (mỗi tuần báo cáo 1 cấp) cho đến khi báo cáo đến CTTĐ mới được coi là hoàn thành trách nhiệm",
+            "Ngay lập tức báo cáo CBLĐ quản lý trực tiếp để xử lý. Trường hợp sự việc không được giải quyết/ không được giải quyết triệt để, sau 05 ngày CBLĐ/CBNV phải tiếp tục báo cáo lên CBLĐ cấp trên của CBLĐ trực tiếp (mỗi tuần báo cáo 1 cấp) cho đến khi báo cáo đến CTTĐ mới được coi là hoàn thành trách nhiệm",
+            "Ngay lập tức báo cáo CBLĐ quản lý trực tiếp để xử lý. Trường hợp sự việc không được giải quyết/ không được giải quyết triệt để, sau 03 ngày CBLĐ/CBNV phải tiếp tục báo cáo lên CBLĐ cấp trên của CBLĐ trực tiếp (mỗi tuần báo cáo 1 cấp) cho đến khi báo cáo đến CTTĐ mới được coi là hoàn thành trách nhiệm",
+            "Ngay lập tức báo cáo CBLĐ quản lý trực tiếp để xử lý. Trường hợp sự việc không được giải quyết/ không được giải quyết triệt để, sau 01 tháng CBLĐ/CBNV phải tiếp tục báo cáo lên CBLĐ cấp trên của CBLĐ trực tiếp (mỗi tuần báo cáo 1 cấp) cho đến khi báo cáo đến CTTĐ mới được coi là hoàn thành trách nhiệm"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Theo quy định về xung đột lợi ích, CBLĐ không được thực hiện giao dịch với đối tác nào sau đây?",
+        "option": [
+            "Doanh nghiệp có người thân(vợ/chồng/tứ thân phụ mẫu/con/anh/chị/em ruột) của nhân sự đang làm việc trong Tập đoàn/Công ty thuộc Tập đoàn  là chủ sở hữu/góp vốn/điều hành",
+            "Doanh nghiệp có nhân sự đang làm việc hoặc người đã từng là nhân sự trong Tập đoàn/ Công ty thuộc Tập đoàn là chủ sở hữu/ góp vốn điều hành",
+            "Tất cả đáp án trên",
+            "none"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Trong trường hợp nào thì CBLĐ được phép chọn đối tác ngoài Tập đoàn thay vì nội bộ?",
+        "option": [
+            "Khi hàng hóa từ nội bộ không có sẵn tại thời điểm mua",
+            "Khi giá của dịch vụ nội bộ cao hơn đối tác ngoài trên 15%",
+            "Khi có mức giá cao hơn và được CBLĐ có thẩm quyền (theo CNPQ) phê duyệt",
+            "Khi có sự phê duyệt của cấp có thẩm quyền vì mức giá cao hơn"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "CBLĐ/CBNV được xem xét điều chỉnh lương định kỳ hàng năm căn cứ theo yếu tố nào?",
+        "option": [
+            "Kết quả, chất lượng công việc của cá nhân",
+            "Hiệu quả hoạt động của Công ty",
+            "Tỷ lệ lạm phát, mặt bằng lương trên thị trường",
+            "Tất cả đáp án trên"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Mức khen thưởng CBLĐ/CBNV có sáng kiến trong công việc: ",
+        "option": [
+            "Mức thưởng từ 15 đến 100 triệu đồng/sáng kiến",
+            "Mức thưởng từ 25 đến 200 triệu đồng/sáng kiến",
+            "CBLĐ được xem xét khen thưởng tùy theo hiệu quả của các sáng kiến.",
+            "Không có đáp án đúng"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Theo quy định, mức giá của dịch vụ, hàng hóa của các Đơn vị trong Tập đoàn không được cao hơn bao nhiêu so với hàng hóa, dịch vụ cùng chất lượng từ đối tác ngoài Tập đoàn?",
+        "option": [
+            "0.2",
+            "0.15",
+            "0.1",
+            "0.05"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Thưởng YTCLCV là loại thưởng gì?",
+        "option": [
+            "Là khoản thưởng ý thức cho CBLĐ/CBNV theo thỏa thuận với công đoàn công ty",
+            "Là khoản thưởng ý thức cho CBLĐ/CBNV theo thỏa thuận tại Hợp đồng lao động.",
+            "Là khoản thưởng ý thức cho CBLĐ/CBNV theo phê duyệt của CBLĐ có thẩm quyền",
+            "none"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Về quy định bảo hiểm sức khỏe Vingroup (“VGR”), CBLĐ/CBNV được mua bảo hiểm sức khỏe cho bản thân, người thân (nếu áp dụng) khi nào?",
+        "option": [
+            "Ngay sau khi ký HĐLĐ chính thức",
+            "Ngay sau khi ký HĐ thử việc/tập nghề",
+            "Ngay ngày đầu làm việc",
+            "Không có đáp án đúng"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Quy định về mức hỗ trợ ăn ca? ",
+        "option": [
+            "CBLĐ/CBNV có chế độ ăn trưa hoặc ăn giữa ca. Mức quy định cố định 850.000 đồng/tháng.",
+            "CBLĐ/CBNV có chế độ ăn trưa hoặc ăn giữa ca. Mức cụ thể áp dụng cho từng nhóm CBLĐ/CBNV sẽ được quy định tại từng giai đoạn để đảm bảo chất lượng các bữa ăn không bị ảnh hưởng bởi các yếu tố thời vụ, lạm phát.",
+            "CBLĐ/CBNV có chế độ ăn trưa hoặc ăn giữa ca. Mức quy định cố định 730.000 đồng/tháng.",
+            "CBLĐ/CBNV có chế độ ăn trưa hoặc ăn giữa ca. Mức quy định cố định 800.000 đồng/tháng."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "CBLĐ được tặng quà với mức bao nhiêu đối với các dịp lễ, tết [ngày 08/3, 30/4 và 01/5, 01/6, Trung thu (quà dành cho con cháu), 02/9, quà Tết âm lịch]",
+        "option": [
+            "CBLĐ được tặng quà với mức 4.500.000 đồng/người/năm, mức hưởng cụ thể tính theo tỷ lệ số tháng làm việc thực tế và được chi trả một lần vào cuối năm (trước Tết âm lịch).",
+            "CBLĐ được tặng quà với mức 3.500.000 đồng/người/năm, mức hưởng cụ thể tính theo tỷ lệ số tháng làm việc thực tế và được chi trả một lần vào cuối năm (trước Tết âm lịch).",
+            "CBLĐ được tặng quà với mức 5.500.000 đồng/người/năm, mức hưởng cụ thể tính theo tỷ lệ số tháng làm việc thực tế và được chi trả một lần vào cuối năm (trước Tết âm lịch).",
+            "CBLĐ được tặng quà với mức 6.500.000 đồng/người/năm, mức hưởng cụ thể tính theo tỷ lệ số tháng làm việc thực tế và được chi trả một lần vào cuối năm (trước Tết âm lịch)."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "CBLĐ/CBNV có trách nhiệm bảo mật thông tin mật của Tập đoàn/Công ty. Theo quy định, CBLĐ/CBNV không được phép tiết lộ thông tin nào sau đây?",
+        "option": [
+            "Thông tin về các cuộc họp nội bộ đã được công khai cho tất cả nhân viên",
+            "Thông tin về CBLĐ có thẩm quyền chỉ đạo/phê duyệt nội bộ với khách hàng và đối tác",
+            "Các thông tin đã được công bố trên website của Tập đoàn",
+            "Thông tin về các sản phẩm và dịch vụ của Tập đoàn/Công ty đã được công bố với truyền thông."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "CBLĐ/CBNV được khám sức khỏe định kỳ bao nhiêu lần/ 1 năm?",
+        "option": [
+            "CBLĐ/CBNV được khám sức khỏe định kỳ 01 lần/năm. Đối với CBLĐ/CBNV làm việc trực tiếp tại các trạm bê tông thuộc Khối Sản xuất Bê tông & Cọc li tâm được \nkhám sức khỏe định kỳ 02 lần/năm.",
+            "CBNV được khám sức khỏe định kỳ 02 lần/năm.",
+            "CBNV được khám sức khỏe định kỳ 01 lần/năm.",
+            "CBLĐ/CBNV được khám sức khỏe định kỳ 01 lần/năm. Đối với CBLĐ/CBNV làm việc trực tiếp tại các trạm bê tông thuộc Khối Sản xuất Bê tông & Cọc li tâm được \nkhám sức khỏe định kỳ theo quý."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "CBNV được giao nhiệm vụ tìm kiếm, đàm phán, ra quyết định mua hàng hóa, dịch vụ cho Công ty phải ưu tiên sử dụng dịch vụ, hàng hóa của các Đơn vị trong cùng Tập đoàn nếu hàng hóa, dịch vụ đó đáp ứng được những tiêu chí nào?",
+        "option": [
+            "Phù hợp với đặc tính, mục đích sử dụng",
+            "giá trong phạm vi không cao quá 5% \nso với hàng hóa, dịch vụ cùng chất lượng,",
+            "giá không cao quá 15% đối với hàng hóa, dịch vụ thấp cấp hơn của đối tác ngoài Tập đoàn",
+            "Tất cả các đáp án trên"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "CBLĐ/CBNV có trách nhiệm gì đối với thông tin mật và thông tin về người có thẩm quyền trong nội bộ?",
+        "option": [
+            "Chia sẻ với khách hàng nếu được yêu cầu",
+            "không tiết lộ, cung cấp thông tin về CBLĐ có thẩm quyền chỉ đạo/ phê duyệt nội bộ với khách hàng, đối tác",
+            "Công khai các thông tin nội bộ để tăng tính minh bạch",
+            "Chia sẻ thông tin với tất cả nhân viên trong nhóm"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Các lỗi sai sót/kỹ thuật nhỏ khi thực hiện Quy định trong Quy định nội bộ chung và không gây hậu quả thuộc lỗi nhóm mấy",
+        "option": [
+            "Lỗi nhóm 1",
+            "Lỗi nhóm 3",
+            "Lỗi nhóm 2",
+            "Không bị xử lý vi phạm"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu hỏi tình huống: CBNV cấp T7, vi phạm lỗi chấm công lần thứ 4 trong tháng. Tại lần vi phạm thứ 3 đã bị XLVP trừ 30% thưởng YTCLCV, vậy lần này có bị xử lý vi phạm nữa không ?",
+        "option": [
+            "Không xử lý do đã XLVP 30% tại lần vi phạm thứ 3",
+            "Có XLVP. Mức xử lý: Lỗi nhóm 3",
+            "Có XLVP. Mức xử lý: Lỗi nhóm 2",
+            "Có XLVP. Mức xử lý: Lỗi nhóm 1"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "CBNV chỉ được phép thực hiện các chỉ đạo, nhận phân công công việc từ CBLĐ cấp trên trực tiếp, trừ các trường hợp xảy ra các tình huống khẩn cấp (tai nạn, hỏa hoạn, sự cố nghiêm trọng khác); CBNV được phép hành động không tuân theo nguyên tắc trên nhưng phải báo cáo cấp trên và CBLĐ liên quan trong vòng bao nhiều giờ kể từ thời điểm phát sinh việc giao/nhận việc?",
+        "option": [
+            "02 giờ",
+            "24 giờ",
+            "12 giờ",
+            "08 giờ"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "CBNV có lời nói hoặc hành vi xúc phạm danh dự, nhân phẩm đối với đồng nghiệp, khách hàng, đối tác bị xử lý vi phạm như thế nào? ",
+        "option": [
+            "Bị XLVP lỗi nhóm 1",
+            "Bị XLVP lỗi nhóm 2, trừ 100% thưởng YTCLCV của 3 tháng",
+            "Bị XLVP mức cao nhất của lỗi nhóm 3",
+            "Không bị xử lý vi phạm"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "none",
+        "option": [
+            "Áp dụng mức xử lý chung của Nhóm 2",
+            "Xử lý vi phạm lỗi nhóm 1",
+            "Xử lý vi phạm lỗi nhóm 3",
+            "Không bị xử lý vi phạm"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "CBNV vi phạm quy định về chấm công/xác nhận công lần thứ 1 trong tháng sẽ bị xử lý vi phạm lỗi nhóm mấy?",
+        "option": [
+            "Không bị xử lý vi phạm",
+            "Lỗi nhóm 1",
+            "Lỗi nhóm 2",
+            "Lỗi nhóm 3"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "CBNV vi phạm quy định về chấm công/xác nhận công lần thứ 2 trong tháng sẽ bị xử lý vi phạm lỗi nhóm mấy?",
+        "option": [
+            "Lỗi nhóm 1",
+            "Lỗi nhóm 2",
+            "Lỗi nhóm 3",
+            "Không bị xử lý vi phạm"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "CBNV vi phạm quy định về chấm công/xác nhận công từ lần thứ 3 trong tháng sẽ bị xử lý vi phạm lỗi nhóm mấy?",
+        "option": [
+            "Lỗi nhóm 2",
+            "Không bị xử lý vi phạm",
+            "Lỗi nhóm 1",
+            "Lỗi nhóm 3"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Đâu không phải là quy định về Ứng xử của CBNV?",
+        "option": [
+            "Không tranh luận to tiếng khi trao đổi với Khách hàng.",
+            "Cần bắt tay trong giao tiếp nội bộ.",
+            "Không tặng hoa, tặng quà sinh nhật và trong các dịp lễ/tết cho CBLĐ cấp trên.",
+            "Nghiêm túc thực hiện các quy định về xưng hô, chào hỏi trong giao tiếp (qua văn bản cũng như khi làm việc trực tiếp) với đồng nghiệp."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Đâu là vi phạm thuộc Lỗi nhóm 1?",
+        "option": [
+            "Thực hiện hành vi có tính chất gian lận, trộm cắp, phá hoại.",
+            "Chống lại hoặc xúi giục đồng nghiệp chống lại các lệnh hợp pháp của cấp trên.",
+            "Bao che lỗi nghiêm trọng, lỗi lớn của đồng nghiệp, đối tác.",
+            "Tất cả các đáp án trên"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Hành vi nào không bị xét vào VPKL lỗi nhóm 1: ",
+        "option": [
+            "Thực hiện hành vi có tính chất gian lận, trộm cắp, phá hoại.",
+            "Lợi dụng vị trí công việc để trục lợi.",
+            "Không hoàn thành nhiệm vụ quan trọng gây hậu quả nghiêm trọng, hoặc trong thời gian dài (từ 02 tháng trở lên) mà không báo cáo kịp thời lên cấp trên và có kế hoạch xử lý.",
+            "CBNV thiếu chứng chỉ năng lực yêu cầu cho chức danh khi hết thời hạn quy định."
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Hành vi vi phạm nào được xét là Lỗi nhóm 1?",
+        "option": [
+            "CBLĐ/CBNV vi phạm các hành vi bị nghiêm cấm theo quy định về lưu trữ",
+            "Chống lại hoặc xúi giục đồng nghiệp chống lại các lệnh hợp pháp của cấp trên.",
+            "Các lỗi sai sót/kỹ thuật nhỏ khi thực hiện Quy định trong Quy định nội bộ chung và không gây hậu quả",
+            "Không có đáp án đúng"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Hành vi vi phạm nào được xét là Lỗi nhóm 2?",
+        "option": [
+            "Chống lại hoặc xúi giục đồng nghiệp chống lại các lệnh hợp pháp của cấp trên.",
+            "Các lỗi sai sót/kỹ thuật nhỏ khi thực hiện Quy định trong Quy định nội bộ chung và không gây hậu quả",
+            "CBLĐ/CBNV vi phạm các hành vi bị nghiêm cấm theo quy định về lưu trữ",
+            "Bao che lỗi nghiêm trọng, lỗi lớn của đồng nghiệp, đối tác."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Hành vi vi phạm nào thuộc Lỗi nhóm 1?",
+        "option": [
+            "Thực hiện hành vi có tính chất gian lận, trộm cắp, phá hoại.",
+            "CBLĐ/CBNV vi phạm các hành vi bị nghiêm cấm theo quy định về lưu trữ",
+            "Các lỗi đặc thù theo mảng việc",
+            "Các lỗi sai sót/kỹ thuật nhỏ khi thực hiện Quy định trong Quy định nội bộ chung và không gây hậu quả"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Hành vi vi phạm nào thuộc Lỗi nhóm 2?",
+        "option": [
+            "Các lỗi đặc thù theo mảng việc",
+            "Thực hiện hành vi có tính chất gian lận, trộm cắp, phá hoại.",
+            "Bao che lỗi nghiêm trọng, lỗi lớn của đồng nghiệp, đối tác.",
+            "CBLĐ/CBNV vi phạm các hành vi bị nghiêm cấm theo quy định về lưu trữ"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Hình thức xử lý các lỗi sai sót/kỹ thuật nhỏ khi thực hiện Quy định trong Quy định nội bộ chung và không gây hậu quả, CBNV vi phạm 02 lần đầu tiên trong tháng đối với lỗi chấm công/xác nhận công? ",
+        "option": [
+            "Trừ thưởng YTCLCV/Thưởng năng suất lao động: \n- Cán bộ cấp T7: Trừ thưởng YTCLCV từ 100.000 đồng/lần đến 200.000 đồng/lần\n- Cán bộ cấp T8, Công nhân, Tổ trưởng công nhân: Trừ thưởng YTCLCV/Thưởng năng suất lao động từ 50.000 đồng/lần đến 100.000 đồng/lần",
+            "Trừ thưởng YTCLCV/Thưởng năng suất lao động: \n- Cán bộ cấp T7: Trừ thưởng YTCLCV từ 150.000 đồng/lần đến 250.000 đồng/lần\n- Cán bộ cấp T8, Công nhân, Tổ trưởng công nhân: Trừ thưởng YTCLCV/Thưởng năng suất lao động từ 100.000 đồng/lần đến 150.000 đồng/lần",
+            "Trừ thưởng YTCLCV/Thưởng năng suất lao động: \n- Cán bộ cấp T7: Trừ thưởng YTCLCV từ 100.000 đồng/lần đến 500.000 đồng/lần\n- Cán bộ cấp T8, Công nhân, Tổ trưởng công nhân: Trừ thưởng YTCLCV/Thưởng năng suất lao động từ 100.000 đồng/lần đến 200.000 đồng/lần",
+            "Trừ thưởng YTCLCV/Thưởng năng suất lao động: \n- Cán bộ cấp T7: Trừ thưởng YTCLCV từ 200.000 đồng/lần đến 400.000 đồng/lần\n- Cán bộ cấp T8, Công nhân, Tổ trưởng công nhân: Trừ thưởng YTCLCV/Thưởng năng suất lao động từ 150.000 đồng/lần đến 200.000 đồng/lần"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Hình thức xử lý của các lỗi đặc thù theo mảng việc là gì? ",
+        "option": [
+            "- Cán bộ cấp T7: Trừ thưởng YTCLCV từ 150.000 đồng/lần đến 250.000 đồng/lần.\n- Cán bộ cấp T8: Trừ thưởng YTCLCV từ 100.000 đồng/lần đến 200.000 đồng/lần.",
+            "- Cán bộ cấp T7: Trừ thưởng YTCLCV từ 100.000 đồng/lần đến 200.000 đồng/lần.\n- Cán bộ cấp T8: Trừ thưởng YTCLCV từ 50.000 đồng/lần đến 100.000 đồng/lần.",
+            "- Cán bộ cấp T7: Trừ thưởng YTCLCV từ 100.000 đồng/lần đến 300.000 đồng/lần.\n- Cán bộ cấp T8: Trừ thưởng YTCLCV từ 50.000 đồng/lần đến 200.000 đồng/lần.",
+            "- Cán bộ cấp T7: Trừ thưởng YTCLCV từ 100.000 đồng/lần đến 500.000 đồng/lần.\n- Cán bộ cấp T8: Trừ thưởng YTCLCV từ 50.000 đồng/lần đến 300.000 đồng/lần."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Hình thức xử lý của Lỗi nhóm 1",
+        "option": [
+            "Sa thải hoặc chấm dứt HĐLĐ, hạ lương, trường hợp vi phạm pháp luật hình sự chuyển cơ quan Công an khởi tố theo quy định.",
+            "Hình thức xử lý tùy theo từng vị trí: Điều chuyển, sa thải hoặc chấm dứt HĐLĐ, hạ lương.",
+            "Cảnh cáo bằng văn bản, hạ lương hoặc chấm dứt HĐLĐ nếu vi phạm lỗi đặc biệt nghiêm trọng.",
+            "Sa thải, trường hợp vi phạm pháp luật hình sự chuyển cơ quan Công an khởi tố theo quy định."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Lỗi nào sau đây không phải Lỗi nhóm 1",
+        "option": [
+            "Thực hiện hành vi có tính chất gian lận, trộm cắp, phá hoại",
+            "Các hành vi bị nghiêm cấm trong quy định lưu trữ",
+            "Bao che lỗi nghiêm trọng, lỗi lớn của đồng nghiệp, đối tác.",
+            "Không hoàn thành nhiệm vụ quan trọng gây hậu quả nghiêm trọng, hoặc trong thời gian dài (từ 02 tháng trở lên) mà không báo cáo kịp thời lên cấp trên và có kế hoạch xử lý."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Lôi nào sau đây không phải Lỗi nhóm 2",
+        "option": [
+            "Lỗi vi phạm quy định lưu trữ",
+            "Lỗi chấm công, xác nhận công đối với CBLĐ cấp T3 trở lên",
+            "Lỗi chấm công, xác nhận công vi phạm từ lần thứ 03 trong tháng đối với CBLĐ/CBNV từ T4 trở xuống",
+            "Các lỗi sai sót/kỹ thuật nhỏ khi thực hiện Quy định trong Quy định nội bộ chung và không gây hậu quả"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Lỗi nhóm 3 bao gồm các lỗi nào?",
+        "option": [
+            "Các lỗi đặc thù theo mảng việc",
+            "Lỗi kỹ thuật, hành chính nhỏ",
+            "Đáp án 1 và 2 đúng",
+            "Không có đáp án đúng"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Mức XLVP đối với CBNV vi phạm lần 1 các hành vi bị nghiêm cấm theo Quy định lưu trữ là gì? ",
+        "option": [
+            "Trừ 30% Thưởng YTCLCV của 01 tháng/lần vi phạm",
+            "Trừ 100% Thưởng YTCLCV của 01 tháng/lần vi phạm",
+            "Trừ 50% Thưởng YTCLCV của 01 tháng/lần vi phạm",
+            "Trừ 10% Thưởng YTCLCV của 01 tháng/lần vi phạm"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Nếu CBNV thực hiện công việc được giao không đúng thẩm quyền/quy định thì sẽ bị xét vào vi phạm lỗi nhóm mấy? ",
+        "option": [
+            "Không bị xử lý vi phạm",
+            "Lỗi nhóm 1",
+            "Lỗi nhóm 2",
+            "Lỗi nhóm 3"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Nếu sau một tuần, vướng mắc hoặc vấn đề vẫn chưa được giải quyết triệt để bởi CBLĐ trực tiếp, CBNV phải làm gì tiếp theo để đảm bảo việc báo cáo đúng quy trình và tránh rủi ro cho tổ chức?",
+        "option": [
+            "CBNV phải ngay lập tức báo cáo CBLĐ quản lý trực tiếp để xử lý. Trường hợp sự việc không được giải quyết/không được giải quyết triệt để, sau 05 ngày CBLĐ phải tiếp tục báo cáo lên CBLĐ cấp trên của CBLĐ trực tiếp (mỗi tuần báo cáo một cấp) cho đến khi báo cáo lên đến CTTĐ mới được coi là hoàn thành trách nhiệm",
+            "CBNV phải ngay lập tức báo cáo CBLĐ quản lý trực tiếp để xử lý. Trường hợp sự việc không được giải quyết/không được giải quyết triệt để, sau 01 tuần CBLĐ phải tiếp tục báo cáo lên CBLĐ cấp trên của CBLĐ trực tiếp (mỗi tuần báo cáo một cấp) cho đến khi báo cáo lên đến CTTĐ mới được coi là hoàn thành trách nhiệm",
+            "CBNV phải ngay lập tức báo cáo CBLĐ quản lý trực tiếp để xử lý. Trường hợp sự việc không được giải quyết/không được giải quyết triệt để, sau 2 tuần CBLĐ phải tiếp tục báo cáo lên CBLĐ cấp trên của CBLĐ trực tiếp (mỗi tuần báo cáo một cấp) cho đến khi báo cáo lên đến CTTĐ mới được coi là hoàn thành trách nhiệm",
+            "CBNV phải ngay lập tức báo cáo CBLĐ quản lý trực tiếp để xử lý. Trường hợp sự việc không được giải quyết/không được giải quyết triệt để, tiếp tục đưa vấn đề. Nếu CBLĐ không giải quyết, trách nhiệm thuộc về CBLĐ trực tiếp vì CBLĐ/CBNV đã thực hiện báo cáo."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Quy định về trang phục làm việc của CBNV?",
+        "option": [
+            "Đối với CBNV Khối văn phòng:\n- Thứ 02 đến thứ 06 hàng tuần: Mặc trang phục công sở, đi giày công sở lịch sự (không mặc trang phục quá ngắn/mỏng/khoét xẻ sâu).\n- Ngày làm việc thứ 7: Trang phục tự do nhưng vẫn đảm bảo lịch sự (không mặc trang phục quá ngắn/mỏng/khoét xẻ sâu).",
+            "Đối với CBNV Khối công trường: Mặc trang phục, bảo hộ do Công ty cấp phát theo các chức danh.",
+            "Không có đáp án đúng",
+            "Đáp án 1 và 2 đúng"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "CBNV sử dụng chất ma túy sẽ bị xét vào lỗi nhóm mấy?",
+        "option": [
+            "Lỗi nhóm 1",
+            "Lỗi nhóm 2",
+            "Lỗi nhóm 3",
+            "Đáp án 1 và 2 đúng"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Câu hỏi tình huống: Anh A và anh B tung tin đồn thất thiệt về chị C khiến chị C bị nhân viên trong phòng bàn tán và cô lập. Theo quy định NBC, anh A và anh B sẽ bị xét vào lỗi nhóm mấy? ",
+        "option": [
+            "Lỗi nhóm 3",
+            "Lỗi nhóm 2",
+            "Lỗi nhóm 1",
+            "Không có đáp án đúng"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "CBNV đi làm muộn, về sớm không xin phép CBLĐ có thẩm quyền trước thời điểm phát sinh theo quy định sẽ bị xử lý như thế nào? ",
+        "option": [
+            "Lỗi nhóm 3: Trừ thưởng YTCLCV 100.000 - 200.000 đồng/lần vi phạm",
+            "Lỗi nhóm 2: Trừ 30% thưởng YTCLCV của 01 tháng/lần vi phạm",
+            "Lỗi nhóm 3: Trừ thưởng YTCLCV 200.000 - 300.000 đồng/lần vi phạm",
+            "Lỗi nhóm 2: Trừ 50% thưởng YTCLCV của 01 tháng/lần vi phạm"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Đâu là các lỗi được xét vào lỗi nhóm 3 theo QĐ NBC cấp T7, T8",
+        "option": [
+            "Lỗi đặc thù",
+            "Các lỗi sai sót/kỹ thuật nhỏ khi thực hiện Quy định trong QĐNBC và không gây hậu quả",
+            "CBNV vi phạm 02 lần đầu trong tháng đối với lỗi chấm công/xác nhận công",
+            "Tất cả các đáp án trên"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "\"Cưỡng ép để đồng nghiệp phải thực hiện theo các yêu cầu sai trái của mình\" là hành vi thuộc lỗi nhóm mấy",
+        "option": [
+            "Lỗi nhóm 3",
+            "Lỗi nhóm 2",
+            "Lỗi nhóm 1",
+            "Không có đáp án đúng"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Câu hỏi tình huống: Anh D không hoàn thành nhiệm vụ được giao trong thời gian dài (6 tháng). Anh D cũng không báo cáo lên cấp trên để có kế hoạch xử lý. Hành vi của anh D sẽ được xét vào lỗi nhóm mấy trong QĐ NBC cấp T7, T8?",
+        "option": [
+            "Lỗi nhóm 1",
+            "Lỗi nhóm 2",
+            "Lỗi nhóm 3",
+            "Không có đáp án đúng"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Hình thức xử lý của các lỗi sai sót/kỹ thuật nhỏ khi thực hiện Quy định trong QĐ NBC và không gây hậu quả là gì?",
+        "option": [
+            "Trừ thưởng YTCLCV/Thưởng năng suất lao động: \n- Cán bộ cấp T7: Trừ thưởng YTCLCV từ 400.000 đồng/lần đến 500.000 đồng/lần\n- Cán bộ cấp T8, Công nhân, Tổ trưởng công nhân: Trừ thưởng YTCLCV/Thưởng năng suất lao động từ 50.000 đồng/lần đến 100.000 đồng/lần",
+            "Trừ thưởng YTCLCV/Thưởng năng suất lao động: \n- Cán bộ cấp T7: Trừ thưởng YTCLCV từ 100.000 đồng/lần đến 200.000 đồng/lần\n- Cán bộ cấp T8, Công nhân, Tổ trưởng công nhân: Trừ thưởng YTCLCV/Thưởng năng suất lao động từ 100.000 đồng/lần đến 200.000 đồng/lần",
+            "Trừ thưởng YTCLCV/Thưởng năng suất lao động: \n- Cán bộ cấp T7: Trừ thưởng YTCLCV từ 400.000 đồng/lần đến 500.000 đồng/lần\n- Cán bộ cấp T8, Công nhân, Tổ trưởng công nhân: Trừ thưởng YTCLCV/Thưởng năng suất lao động từ 100.000 đồng/lần đến 200.000 đồng/lần",
+            "Trừ thưởng YTCLCV/Thưởng năng suất lao động: \n- Cán bộ cấp T7: Trừ thưởng YTCLCV từ 100.000 đồng/lần đến 200.000 đồng/lần\n- Cán bộ cấp T8, Công nhân, Tổ trưởng công nhân: Trừ thưởng YTCLCV/Thưởng năng suất lao động từ 50.000 đồng/lần đến 100.000 đồng/lần"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Ngày phép năm CBNV chưa được sử dụng hết được gia hạn như thế nào?",
+        "option": [
+            "Không được gia hạn.",
+            "Được gia hạn sử dụng tới 31/3 của năm tiếp theo.",
+            "Được gia hạn sử dụng tới hết Quý I của năm tiếp theo.",
+            "Được gia hạn sử dụng tới hết tháng 1 của năm tiếp theo."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Quy định áp dụng để xử lý các vi phạm theo Quy định nội bộ chung:",
+        "option": [
+            "- Mức xử lý vi phạm: Áp dụng Quy định nội bộ chung mới nhất\n- Mức lương/Thưởng YTCLCV làm căn cứ xử lý vi phạm: Áp dụng Mức lương/Thưởng YTCLCV tại thời điểm ra quyết định xử lý vi phạm.",
+            "- Mức xử lý vi phạm: Áp dụng Quy định nội bộ chung đang có hiệu lực tại thời điểm lập Biên bản xử lý vi phạm.\n- Mức lương/Thưởng YTCLCV làm căn cứ xử lý vi phạm: Áp dụng Mức lương/Thưởng YTCLCV của tháng vi phạm.",
+            "- Mức xử lý vi phạm: Áp dụng Quy định nội bộ chung đang có hiệu lực tại thời điểm lập Biên bản xử lý vi phạm.\n- Mức lương/Thưởng YTCLCV làm căn cứ xử lý vi phạm: Áp dụng Mức lương/Thưởng YTCLCV tại thời điểm ra quyết định xử lý vi phạm.",
+            "Không có đáp án đúng"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Mức thưởng cho CBNV phát hiện và tố giác công nhân ở trong khu nhà ở công nhân nhưng đi làm cho nhà thầu khác là bao nhiêu?",
+        "option": [
+            "Mức thưởng 500.000 đồng/người vi phạm.",
+            "Mức thưởng 400.000 đồng/người vi phạm.",
+            "Mức thưởng 300.000 đồng/người vi phạm.",
+            "Mức thưởng 200.000 đồng/người vi phạm."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Mức thưởng cho CBNV tố cáo hành vi tiêu cực, trộm cắp, tham nhũng trong toàn Tập đoàn mà các thông tin này sau khi điều tra, xác minh được xác định là có cơ sở, trong đó đủ căn cứ để xử lý kỷ luật nhưng không đủ cơ sở để xử lý hình sự người vi phạm: ",
+        "option": [
+            "Mức thưởng 150 triệu đồng/lần trong trường hợp giá trị tài sản/tiền tham ô, trộm cắp, nhận hối lộ bị tố cáo ≤ 50 triệu đồng.",
+            "Mức thưởng 300 triệu đồng/lần trong trường hợp giá trị tài sản/tiền tham ô, trộm cắp, nhận hối lộ bị tố cáo > 50 triệu đồng.",
+            "Đáp án 1 và 2 sai",
+            "Đáp án 1 và 2 đúng"
+        ],
+        "answer": 4
+    },
+    {
+        "question": "Mức thưởng cho CBNV tố cáo hành vi tiêu cực, trộm cắp, tham nhũng trong toàn Tập đoàn mà các thông tin này sau khi điều tra, xác minh được xác định là có cơ sở, trong đó đủ căn cứ để xử lý kỷ luật và đủ cơ sở để cơ quan Nhà nước xử lý hình sự người vi phạm: ",
+        "option": [
+            "Mức thưởng 1 tỷ đồng/lần.",
+            "Mức thưởng 2 tỷ đồng/lần.",
+            "Mức thưởng 3 tỷ đồng/lần.",
+            "Mức thưởng 4 tỷ đồng/lần."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Mức thưởng cho CBNV phát hiện và tố giác công nhân ở trong khu nhà ở công nhân nhưng đi làm cho nhà thầu khác là bao nhiêu?",
+        "option": [
+            "Mức thưởng 500.000 đồng/người vi phạm.",
+            "Mức thưởng 400.000 đồng/người vi phạm.",
+            "Mức thưởng 300.000 đồng/người vi phạm.",
+            "Mức thưởng 200.000 đồng/người vi phạm."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Công tác dài ngày gồm bao nhiêu ngày",
+        "option": [
+            "Tổng thời gian công tác > 15 ngày liên tục",
+            "Tổng thời gian công tác > 20 ngày liên tục",
+            "Tổng thời gian công tác > 22 ngày liên tục",
+            "Tổng thời gian công tác > 25 ngày liên tục"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Công tác ngắn ngày gồm bao nhiêu ngày",
+        "option": [
+            "Tổng thời gian công tác ≤ 7 ngày liên tục",
+            "Tổng thời gian công tác ≤ 10 ngày liên tục",
+            "Tổng thời gian công tác ≤ 12 ngày liên tục",
+            "Tổng thời gian công tác ≤ 15 ngày liên tục"
+        ],
+        "answer": 4
+    }
+]
